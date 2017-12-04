@@ -6,7 +6,8 @@ Create a model of a rocket using Blender
 
 Here is how your finished piece will look:
 
-[Sketchfab]
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/5660fd9d487e4175bd3b7d97c6277f39/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+</div>
 
 ### What you will learn
 
