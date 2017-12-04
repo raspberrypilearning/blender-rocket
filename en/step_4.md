@@ -24,6 +24,6 @@ Instead, we will extrude this face.
 
 ![Extrude region](images/blender-rocket-body-extrude.png)
 
-+ Extrude the face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
++ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
 
 ![Nose cone](images/blender-rocket-nose-extrude.png)
