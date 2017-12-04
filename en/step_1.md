@@ -20,9 +20,12 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
-If you prefer, you can watch the whole resource as a video tutorial:
+If you prefer, you can watch the whole resource as video tutorials:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SlhTaqJvqlo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jj5e2LckMQ?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 ### License
 
