@@ -1,6 +1,6 @@
 ## Add stripes
 
-+ Make sure the rocket is selected, then select **Edit mode** from the lower menu. If you prefer, you can use the <kbd>tab</kbd> key as a shortcut.
++ Make sure the rocket is selected, then select **Edit mode** from the lower menu. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
 
 ![Edit mode](images/edit-mode.png)
 
@@ -30,10 +30,8 @@ Now you can add this colour to the faces of the rocket.
 
 ![Assign the material](images/blender-material-assign.png)
 
-Now select the next face to be coloured and give it the white colour by repeating the previous steps.
+Now select the next face to be coloured and give it the white colour by repeating the previous steps. You can select multiple faces at once by selecting a face then holding <kbd>Shift</kbd> while selecting the other faces.
 
 ![Colour the stripes](images/blender-rocket-2-faces-white.png)
-
-You can select multiple faces at once by selecting a face then holding <kbd>Shift</kbd> while selecting the other faces.
 
 + Press <kbd>F12</kbd> to see your image.
