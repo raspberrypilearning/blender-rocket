@@ -8,7 +8,7 @@
 
 We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.  
 
-+ Switch to Edit mode using the menu at the bottom.
++ Switch to **Edit Mode** using the menu at the bottom.
 
 ![Edit mode](images/edit-mode.png)
 
