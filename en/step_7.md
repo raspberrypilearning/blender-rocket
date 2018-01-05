@@ -18,7 +18,7 @@ Now we will add a new material for the stripes.
 
 ![Name the material](images/blender-name2-material.png)
 
-+ Select a white colour for the **Diffuse**.
++ Select a white colour for the **Diffuse** menu.
 
 ![Select a white colour](images/blender-white-material.png)
 
