@@ -1,6 +1,6 @@
 ## Introduction
 
-Create a model of a rocket using Blender
+Create a model of a rocket using Blender.
 
 ### What you will make
 
