@@ -2,11 +2,11 @@
 
 Now let's create the body of the rocket.
 
-+ Switch to the face select tool
++ Switch to the **Face select** tool.
 
 ![Face select tool](images/blender-face-tool.png)
 
-+ Right click to select the top face of the cylinder.
++ Right-click to select the top face of the cylinder.
 
 If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
 
