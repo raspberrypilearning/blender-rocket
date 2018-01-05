@@ -14,7 +14,7 @@ We'll be creating the rocket from this cylinder. The cylinder will be the bottom
 
 Let's create the fins that stabilize the rocket as it flies.
 
-+ Select **Edge** from the lower menu.
++ Click on **Edge select** in the lower menu.
 
 ![Edge tool](images/blender-edge-tool.png)
 
