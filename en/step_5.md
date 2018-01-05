@@ -1,6 +1,6 @@
 ## Nose cone
 
-The nose cone should come into a point. To do this you can use the resize tool.
+The nose cone should come to a point. To do this you can use the resize tool.
 
 + Select the **cube end** tool.
 
