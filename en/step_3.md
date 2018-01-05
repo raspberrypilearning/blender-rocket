@@ -4,7 +4,7 @@
 
 + Start by selecting the cube, then press <kbd>X</kbd> to delete it.
 
-+ Go to the Toolbox. On the Create tab, add a cylinder.
++ Go to the Toolbox, and click on the **Create** tab. Add a cylinder.
 
 We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.  
 
