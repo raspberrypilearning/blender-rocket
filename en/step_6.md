@@ -16,7 +16,7 @@ First we will give the rocket a basic blue colour.
 
 ![Name the material](images/blender-name-material.png)
 
-+ Select a blue color under **Diffuse** to colour your rocket blue.
++ Select a blue color from the **Diffuse** menu to colour your rocket blue.
 
 ![Blue material](images/blender-blue-material.png)
 
