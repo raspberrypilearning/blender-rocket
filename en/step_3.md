@@ -6,19 +6,19 @@
 
 + Go to the Toolbox. On the Create tab, add a cylinder.
 
-We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, then we'll build up the rocket above the cylinder.  
+We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.  
 
-+ Switch to Edit mode using the menu at the bottom
++ Switch to Edit mode using the menu at the bottom.
 
 ![Edit mode](images/edit-mode.png)
 
 Let's create the fins that stabilize the rocket as it flies.
 
-+ Select edge from the lower menu.
++ Select **Edge** from the lower menu.
 
 ![Edge tool](images/blender-edge-tool.png)
 
-+ Right click an edge at the base of the cylinder to select it.
++ Right-click an edge at the base of the cylinder to select it.
 
 ![Select an edge](images/blender-rocket-fin-1-1.png)
 
@@ -26,9 +26,9 @@ Let's create the fins that stabilize the rocket as it flies.
 
 ![Drag out the fin](images/blender-rocket-fin-1-2.png)
 
-+ Create 4 fins.
++ Create four fins.
 
 ![Create another fin](images/blender-rocket-fin-2-1.png)
 ![Create another fin](images/blender-rocket-fin-3-1.png)
 
-Now you have the base of your rocket.
+Now you have the base of your rocket!
