@@ -1,29 +1,29 @@
-## Nose cone
+## नाक शंकु
 
-The nose cone should come to a point. To do this you can use the resize tool.
+नाक शंकु किसी बिंदु पर आना चाहिए। ऐसा करने के लिए आप आकार बदलने के टूल का उपयोग कर सकते हैं।
 
-+ Select the **cube end** tool.
++ **cube end** टूल का चयन करें।
 
-![Cube ends tool](images/blender-handles-menu-2.png)
+![क्यूब समाप्ति टूल](images/blender-handles-menu-2.png)
 
-+ Resize the face using the red and green handles, turning it into more of a nose cone shape.
++ लाल और हरे रंग के हैंडल का उपयोग करके आकृति का आकार बदलें, इसे जितना अधिक हो सके नाक शंकु के आकार में बदल दें।
 
-![Resize the face](images/blender-rocket-nose-resize-1.png) ![Resize the face](images/blender-rocket-nose-resize-2.png)
+![आकृति का आकार बदलें](images/blender-rocket-nose-resize-1.png) ![आकृति का आकार बदलें](images/blender-rocket-nose-resize-2.png)
 
-+ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
++ <kbd>F12</kbd> दबाकर (या यदि आप मैक का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबाकर) छवि प्रस्तुत करें और देखें कि रॉकेट कैसा दिखता है।
 
-![Render the rocket](images/blender-rocket-render-1.png)
+![रॉकेट प्रस्तुत करें](images/blender-rocket-render-1.png)
 
-It might look a bit big, but you can resize the whole rocket.
+यह थोड़ा बड़ा लग सकता है, लेकिन आप पूरे रॉकेट का आकार बदल सकते हैं।
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
 
-+ Switch back to **Object Mode** using the menu at the bottom.
++ नीचे दिए गए मेनू का उपयोग करते हुए **Object Mode** में वापस जाएंँ।
 
-+ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
++ आकार बदलने के लिए <kbd>S</kbd> कुंजी दबाएँ, फिर रॉकेट को थोड़ा छोटा करें। जब आप आकार से संतुष्ट हों तो क्लिक करें।
 
-![Resize the rocket](images/blender-rocket-resize.png)
+![रॉकेट का आकार बदलें](images/blender-rocket-resize.png)
 
-+ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
++ यह पुष्टि करने के लिए कि रॉकेट का आकार सही है <kbd>F12</kbd> (या <kbd>FN + F12</kbd>) दबाकर फिर से प्रस्तुत करें।
 
-![Small rendered rocket](images/blender-rocket-render-2.png)
+![छोटे रूप में प्रस्तुत रॉकेट](images/blender-rocket-render-2.png)
