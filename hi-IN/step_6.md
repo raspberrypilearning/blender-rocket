@@ -1,23 +1,23 @@
-## Colour the rocket
+## रॉकेट में रंग भरें
 
-First we will give the rocket a basic blue colour.
+सबसे पहले हम रॉकेट को एक मूल नीला रंग देंगे।
 
-+ Select the rocket.
++ रॉकेट का चयन करें।
 
-+ Go to the **Material** tab on the right menu panel.
++ दाएँ मेनू पैनल पर **Material** (सामग्री) टैब पर जाएँ।
 
-![Material tab](images/blender-material-tab.png)
+![सामग्री टैब](images/blender-material-tab.png)
 
-+ Add a new material by clicking **New**.
++ **New** पर क्लिक करके कोई नई सामग्री जोड़ें।
 
-![Add a new material](images/blender-new-material.png)
+![कोई नई सामग्री जोड़ें](images/blender-new-material.png)
 
-+ Call the material `blue`.
++ इस सामग्री को `नीला`नाम दें।
 
-![Name the material](images/blender-name-material.png)
+![सामग्री का कोई नाम रखें](images/blender-name-material.png)
 
-+ Select a blue color from the **Diffuse** menu to colour your rocket blue.
++ अपने रॉकेट में नीला रंग भरने के लिए **Diffuse** मेनू से किसी नीले रंग का चयन करें।
 
-![Blue material](images/blender-blue-material.png)
+![नीली सामग्री](images/blender-blue-material.png)
 
-![Blue rocket](images/blender-blue-rocket.png)
+![नीला रॉकेट](images/blender-blue-rocket.png)
