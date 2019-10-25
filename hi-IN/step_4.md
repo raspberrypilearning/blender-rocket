@@ -1,29 +1,49 @@
-## Body of the rocket
+## रॉकेट की बॉडी
 
-Now let's create the body of the rocket.
+आइए अब रॉकेट की बॉडी बनाते हैं।
 
-+ Switch to the **Face select** tool.
++ **Face select** टूल पर जाएँ।
 
-![Face select tool](images/blender-face-tool.png)
+![चेहरा चयन करने का टूल](images/blender-face-tool.png)
 
-+ Right-click to select the top face of the cylinder.
++ सिलेंडर की ऊपर की आकृति का चयन करने के लिए राइट-क्लिक करें।
 
-If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
+यदि आप इसे ऊपर खींचते हैं, तो यह थोड़ा अजीब लगता है। हर चीज़ ऊपर चली जाएगी, और यह वह नहीं है जो आप चाहते हैं।
 
-![Pull rocket up](images/blender-rocket-pull.png)
+![रॉकेट को ऊपर खींचें](images/blender-rocket-pull.png)
 
-You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
+आपके द्वारा किए गए किन्हीं भी परिवर्तनों को पूर्ववत् करने के लिए आप </kbd>CTRL + Z<kbd> दबा सकते हैं।</p> 
 
-Instead, we will extrude this face.
+<p>
+  इसके बजाय, हम इस आकृति को बाहर निकालेंगे।
+</p>
 
-+ Go to the Toolbox, select the **Tools** tab, then select **Extrude region**.
+<ul>
+  <li>
+    टूलबॉक्स पर जाएँ, <strong>Tools</strong> टैब का चयन करें, फिर <strong>Extrude region</strong> का चयन करें।
+  </li>
+</ul>
 
-![Extrude region](images/extrude-region.png)
+<p>
+  <img src="images/extrude-region.png" alt="बाहर निकालने का क्षेत्र" />
+</p>
 
-+ Pull the section up to create a taller rocket, then click when you are happy.
+<ul>
+  <li>
+    अधिक लंबा रॉकेट बनाने के लिए इस हिस्से को खींच कर ऊपर ले जाएँ, फिर जब आप संतुष्ट हों तो क्लिक करें।
+  </li>
+</ul>
 
-![Extrude region](images/blender-rocket-body-extrude.png)
+<p>
+  <img src="images/blender-rocket-body-extrude.png" alt="बाहर निकालने का क्षेत्र" />
+</p>
 
-+ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
+<ul>
+  <li>
+    नाक के शंकु के आधार तैयार करने के लिए उसी आकृति को एक बार फिर बाहर निकालें। या तो मेनू से फिर से <strong>Extrude region</strong> का चयन करें, या यदि आप चाहें, तो शॉर्टकट कुंजी <kbd>E</kbd> का उपयोग करें।
+  </li>
+</ul>
 
-![Nose cone](images/blender-rocket-nose-extrude.png)
+<p>
+  <img src="images/blender-rocket-nose-extrude.png" alt="नाक शंकु" />
+</p>
