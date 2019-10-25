@@ -1,0 +1,36 @@
+---
+title: Rocket
+hero_image: images/banner.png
+description: Create a model of a rocket using Blender
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, thiết kế-1, lập trình-0, Phys-comp-0, sản xuất-0, cộng đồng-0
+interests: space, art
+technologies: blender
+site_areas: dự án
+hardware: ''
+software: blender
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Giới thiệu
+  - 
+    title: Những gì bạn sẽ cần
+  - 
+    title: Base of the rocket
+  - 
+    title: Body of the rocket
+  - 
+    title: Nose cone
+  - 
+    title: Colour the rocket
+  - 
+    title: Add stripes
+  - 
+    title: Red nose
+  - 
+    title: "Challenge: more colour"
