@@ -1,37 +1,37 @@
-## Add stripes
+## पट्टियाँ जोड़ें
 
-+ Make sure the rocket is selected, then select **Edit Mode** from the lower menu. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
++ सुनिश्चित करें कि रॉकेट चुना गया है, फिर नीचे के मेनू से **Edit Mode** का चयन करें। यदि आप चाहें, तो आप शॉर्टकट के रूप में <kbd>टैब</kbd> कुंजी का उपयोग कर सकते हैं।
 
-![Edit mode](images/edit-mode.png)
+![संपादन मोड](images/edit-mode.png)
 
-+ Click on the **Face select** tool from the lower menu.
++ नीचे के मेनू से **Face select** टूल पर क्लिक करें।
 
-![Face tool](images/blender-face-tool.png)
+![आकृति टूल](images/blender-face-tool.png)
 
-Now we will add a new material for the stripes.
+अब हम पट्टियों के लिए कोई नई सामग्री जोड़ेंगे।
 
-+ Go to the **Material** tab on the right menu panel, and add another new material by clicking the **+** icon.
++ दाएँ मेनू पैनल पर **Material** (सामग्री) टैब पर जाएँ, और **+** आइकन पर क्लिक करके कोई दूसरी नई सामग्री जोड़ें।
 
-![Add another material](images/blender-add-material-plus-button.png)
+![कोई दूसरी सामग्री जोड़ें](images/blender-add-material-plus-button.png)
 
-+ Click on **New** and call the material `white`.
++ **New** पर क्लिक करें और इस सामग्री को `सफेद` नाम दें।
 
-![Name the material](images/blender-name2-material.png)
+![सामग्री का कोई नाम रखें](images/blender-name2-material.png)
 
-+ Select a white colour for the **Diffuse** menu.
++ **Diffuse** मेनू के लिए किसी सफेद रंग का चयन करें।
 
-![Select a white colour](images/blender-white-material.png)
+![सफेद रंग का चयन करें](images/blender-white-material.png)
 
-Now you can add this colour to the faces of the rocket.
+अब आप रॉकेट की आकृतियों पर यह रंग जोड़ सकते हैं।
 
-+ Right-click to select a face on the rocket that you want to colour white.
++ रॉकेट पर उस आकृति को चुनने के लिए राइट-क्लिक करें जिसका रंग आप सफेद करना चाहते हैं।
 
-+ Click on the white material, then click on the **Assign** button to colour the face white.
++ सफेद सामग्री पर क्लिक करें, फिर आकृति का रंग सफेद करने के लिए **Assign** बटन पर क्लिक करें।
 
-![Assign the material](images/blender-material-assign.png)
+![सामग्री निर्धारित करें](images/blender-material-assign.png)
 
-Now select the next face to be coloured and give it the white colour by repeating the previous steps. You can select multiple faces at once by selecting a face and then holding <kbd>Shift</kbd> while selecting the other faces.
+अब रंग की जाने वाली अगली आकृति को चुनें और पिछले चरणों को दोहरा कर इस पर सफेद रंग करें। आप किसी आकृति का चयन करके और फिर <kbd>शिफ़्ट</kbd> को दबाए रखकर अन्य आकृतियों का चयन करके एक साथ कई आकृतियों का चयन कर सकते हैं।
 
-![Colour the stripes](images/blender-rocket-2-faces-white.png)
+![पट्टियों को रंग करें](images/blender-rocket-2-faces-white.png)
 
-+ Render your rocket to see what it looks like.
++ यह देखने के लिए अपने रॉकेट को प्रस्तुत करें कि यह कैसा दिखता है।
