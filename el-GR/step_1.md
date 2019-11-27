@@ -21,7 +21,11 @@
 
 Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'en/resources'.
 
-Αν προτιμάς, μπορείς να παρακολουθήσεις όλο το περιεχόμενο του πόρου ως εκπαιδευτικό βίντεο: <iframe width="560" height="315" src="https://www.youtube.com/embed/SlhTaqJvqlo?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/7jj5e2LckMQ?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Αν προτιμάς, μπορείς να παρακολουθήσεις όλο το περιεχόμενο του πόρου ως εκπαιδευτικό βίντεο: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SlhTaqJvqlo?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jj5e2LckMQ?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### Άδεια
 
