@@ -1,23 +1,23 @@
-## Colour the rocket
+## Χρωμάτισε τον πύραυλο
 
-First we will give the rocket a basic blue colour.
+Πρώτα θα δώσουμε στον πυραύλο ένα βασικό μπλε χρώμα.
 
-+ Select the rocket.
++ Επίλεξε τον πύραυλο.
 
-+ Go to the **Material** tab on the right menu panel.
++ Πήγαινε στην καρτέλα **Material** στο δεξιό μενού.
 
-![Material tab](images/blender-material-tab.png)
+![Καρτέλα υλικού](images/blender-material-tab.png)
 
-+ Add a new material by clicking **New**.
++ Πρόσθεσε νέο υλικό κλικάροντας στο **New**.
 
-![Add a new material](images/blender-new-material.png)
+![Προσθήκη νέου υλικού](images/blender-new-material.png)
 
-+ Call the material `blue`.
++ Ονόμασε το υλικό `blue`.
 
-![Name the material](images/blender-name-material.png)
+![Ονόμασε το υλικό](images/blender-name-material.png)
 
-+ Select a blue color from the **Diffuse** menu to colour your rocket blue.
++ Επίλεξε ένα μπλε χρώμα από το μενού **Diffuse** για να χρωματίσεις τον πύραυλο μπλε.
 
-![Blue material](images/blender-blue-material.png)
+![Μπλε υλικό](images/blender-blue-material.png)
 
-![Blue rocket](images/blender-blue-rocket.png)
+![Μπλε πύραυλος](images/blender-blue-rocket.png)
