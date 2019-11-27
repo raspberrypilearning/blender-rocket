@@ -1,29 +1,29 @@
-## Nose cone
+## Κωνική κορυφή
 
-The nose cone should come to a point. To do this you can use the resize tool.
+Η κωνική κορυφή πρέπει να καταλήγει σ' ένα σημείο. Για να το πετύχεις αυτό μπορείς να χρησιμοποιήσεις το εργαλείο αλλαγής μεγέθους.
 
-+ Select the **cube end** tool.
++ Επίλεξε το εργαλείο **cube end**.
 
-![Cube ends tool](images/blender-handles-menu-2.png)
+![Εργαλείο Cube ends](images/blender-handles-menu-2.png)
 
-+ Resize the face using the red and green handles, turning it into more of a nose cone shape.
++ Άλλαξε το μέγεθος της περιοχής χρησιμοποιώντας τις κόκκινες και πράσινες λαβές, μετατρέποντάς το σε κωνική κορυφή.
 
-![Resize the face](images/blender-rocket-nose-resize-1.png) ![Resize the face](images/blender-rocket-nose-resize-2.png)
+![Αλλαγή μεγέθους όψης](images/blender-rocket-nose-resize-1.png) ![Αλλαγή μεγέθους όψης](images/blender-rocket-nose-resize-2.png)
 
-+ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
++ Δημιούργησε την εικόνα πατώντας <kbd>F12</kbd> (<kbd>FN + F12</kbd> αν χρησιμοποιείς Mac) για να δεις πώς θα φαίνεται ο πύραυλός σου.
 
-![Render the rocket](images/blender-rocket-render-1.png)
+![Επεξεργασία εμφάνισης πυραύλου](images/blender-rocket-render-1.png)
 
-It might look a bit big, but you can resize the whole rocket.
+Μπορεί να φαίνεται λίγο μεγάλος, αλλά μπορείς να αλλάξεις το μέγεθος ολόκληρου του πυραύλου.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Πάτησε <kbd>ESC</kbd> για να βγεις από την προβολή εμφάνισης.
 
-+ Switch back to **Object Mode** using the menu at the bottom.
++ Πήγαινε στη λειτουργία **Object Mode** χρησιμοποιώντας το μενού στο κάτω μέρος.
 
-+ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
++ Πάτα το πλήκτρο <kbd>S</kbd> για αλλαγή μεγέθους και κατόπιν συρρίκνωσε τον πύραυλο. Κάνε κλικ όταν θα είσαι ικανοποιημένος με το μέγεθος.
 
-![Resize the rocket](images/blender-rocket-resize.png)
+![Αλλαγή μεγέθους πυραύλου](images/blender-rocket-resize.png)
 
-+ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
++ Εκτέλεσε ξανά την ιδια ενέργεια πατώντας <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) για να επιβεβαιώσεις πως ο πύραυλος έχει το σωστό μέγεθος.
 
-![Small rendered rocket](images/blender-rocket-render-2.png)
+![Επεξεργασία εμφάνισης μικρού πυραύλου](images/blender-rocket-render-2.png)
