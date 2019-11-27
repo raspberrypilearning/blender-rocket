@@ -1,7 +1,7 @@
-## Challenge: more colour
+## Πρόκληση: Περισσότερο χρώμα
 
-+ Can you add more colours to your rocket? Perhaps you could make the fins red?
++ Μπορείς να προσθέσεις περισσότερα χρώματα στον πύραυλό σου; Ίσως θα μπορούσες να κάνεις τα πτερύγια κόκκινα;
 
-![Red fins](images/more-colour.png)
+![Κόκκινα πτερύγια](images/more-colour.png)
 
-+ Can you add another new material for a different colour?
++ Μπορείς να προσθέσεις κάποιο νέο υλικό με διαφορετικό χρώμα;
