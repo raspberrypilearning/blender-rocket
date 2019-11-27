@@ -1,7 +1,7 @@
 ---
-title: Rocket
+title: Πύραυλος
 hero_image: images/banner.png
-description: Create a model of a rocket using Blender
+description: Δημιούργησε το μοντέλο ενός πυραύλου χρησιμοποιώντας το Blender
 theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -9,10 +9,10 @@ ingredient: false
 copyedit: true
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 interests: space, art
-technologies: μίξερ
+technologies: blender
 site_areas: projects
 hardware: ''
-software: μίξερ
+software: blender
 version: 3
 last_tested: 2017-01-01
 steps:
@@ -21,16 +21,16 @@ steps:
   - 
     title: Τι θα χρειαστείς
   - 
-    title: Base of the rocket
+    title: Η βάση του πυραύλου
   - 
-    title: Body of the rocket
+    title: Το σώμα του πυραύλου
   - 
-    title: Nose cone
+    title: Κώνος κορυφής
   - 
-    title: Colour the rocket
+    title: Χρωμάτισε τον πύραυλο
   - 
-    title: Add stripes
+    title: Πρόσθεσε λωρίδες
   - 
-    title: Red nose
+    title: Κόκκινη κορυφή
   - 
-    title: "Challenge: more colour"
+    title: "Πρόκληση: Περισσότερο χρώμα"
