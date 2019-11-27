@@ -1,10 +1,10 @@
 ## Εισαγωγή
 
-Create a model of a rocket using Blender.
+Δημιούργησε το μοντέλο ενός πυραύλου χρησιμοποιώντας το Blender.
 
 ### Τι θα φτιάξεις
 
-Here is how your finished piece will look:
+Δες πώς θα φαίνεται το τελικό σχέδιο:
 
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/5660fd9d487e4175bd3b7d97c6277f39/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 </div>
@@ -21,8 +21,8 @@ Here is how your finished piece will look:
 
 Χρησιμοποίησε το σύνδεσμο στο υποσέλιδο για να αποκτήσεις πρόσβαση στο αποθετήριο GitHub για αυτό το έργο, το οποίο περιέχει όλους τους πόρους (συμπεριλαμβανομένου ενός έργου που έχει ολοκληρωθεί στο παράδειγμα) στο φάκελο 'en/resources'.
 
-If you prefer, you can watch the whole resource as video tutorials: <iframe width="560" height="315" src="https://www.youtube.com/embed/SlhTaqJvqlo?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/7jj5e2LckMQ?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Αν προτιμάς, μπορείς να παρακολουθήσεις όλο το περιεχόμενο του πόρου ως εκπαιδευτικό βίντεο: <iframe width="560" height="315" src="https://www.youtube.com/embed/SlhTaqJvqlo?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/7jj5e2LckMQ?rel=0" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### Άδεια
 
-***Rocket*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Rocket*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand είναι αδειοδοτημένο υπό την [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
