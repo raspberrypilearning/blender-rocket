@@ -1,29 +1,29 @@
-## Body of the rocket
+## Το σώμα του πυραύλου
 
-Now let's create the body of the rocket.
+Τώρα ας δημιουργήσουμε το σώμα του πυραύλου.
 
-+ Switch to the **Face select** tool.
++ Πήγαινε στο εργαλείο **Face select**.
 
-![Face select tool](images/blender-face-tool.png)
+![Εργαλείο face select](images/blender-face-tool.png)
 
-+ Right-click to select the top face of the cylinder.
++ Κάνε δεξί κλικ για να επιλέξεις την πάνω όψη του κυλίνδρου.
 
-If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
+Άν την τραβήξεις προς τα πάνω φαίνεται λίγο περίεργη. Όλα θα τραβηχτούν προς τα πάνω και αυτό είναι κάτι που δεν θέλεις.
 
-![Pull rocket up](images/blender-rocket-pull.png)
+![Τράβηξε τον πύραυλο προς τα πάνω](images/blender-rocket-pull.png)
 
-You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
+Με <kbd>CTRL + Z</kbd> ακυρώνεις τυχόν αλλαγές που έκανες.
 
-Instead, we will extrude this face.
+Αντ' αυτού θα εξωθήσουμε αυτή την περιοχή.
 
-+ Go to the Toolbox, select the **Tools** tab, then select **Extrude region**.
++ Πήγαινε στην εργαλειοθήκη, επίλεξε την καρτέλα **Tools** και κατόπιν επίλεξε **Extrude region**.
 
 ![Extrude region](images/extrude-region.png)
 
-+ Pull the section up to create a taller rocket, then click when you are happy.
++ Τράβηξε το τμήμα προς τα πάνω για να δημιουργήσεις ένα ψηλότερο πύραυλο και μετά κάνε κλικ όταν θα είσαι ευχαριστημένος με το αποτέλεσμα.
 
 ![Extrude region](images/blender-rocket-body-extrude.png)
 
-+ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
++ Εξώθησε πάλι το ίδιο τμήμα προς τα πάνω για να δημιουργήσεις τη βάση της κωνικής κορφής του πυραύλου. Είτε επιλέγοντας **Extrude region** από το μενού ξανά είτε, αν προτιμάς, χρησιμοποιώντας το πλήκτρο συντόμευσης <kbd>E</kbd>.
 
-![Nose cone](images/blender-rocket-nose-extrude.png)
+![Κώνος κορυφής](images/blender-rocket-nose-extrude.png)
