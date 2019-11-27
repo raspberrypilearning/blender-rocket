@@ -1,0 +1,27 @@
+---
+title: Πύραυλος
+hero_image: images/banner.png
+description: Δημιούργησε το μοντέλο ενός πυραύλου χρησιμοποιώντας το Blender
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: space, art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Εισαγωγή
+  - title: Τι θα χρειαστείς
+  - title: Η βάση του πυραύλου
+  - title: Το σώμα του πυραύλου
+  - title: Κωνική κορυφή
+  - title: Χρωμάτισε τον πύραυλο
+  - title: Πρόσθεσε λωρίδες
+  - title: Κόκκινη κορυφή
+  - title: "Πρόκληση: Περισσότερο χρώμα"
