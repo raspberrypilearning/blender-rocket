@@ -1,33 +1,33 @@
-## Base of the rocket
+## Η βάση του πυραύλου
 
-+ Open Blender and exit the splash screen.
++ Άνοιξε το Blender και βγες από την οθόνη εκκίνησης.
 
-+ Start by selecting the cube, then press <kbd>X</kbd> to delete it.
++ Ξεκίνησε επιλέγοντας τον κύβο, κατόπιν πάτα <kbd>Χ</kbd> για να τον διαγράψεις.
 
-+ Go to the Toolbox, and click on the **Create** tab. Add a cylinder.
++ Πήγαινε στην εργαλειοθήκη και κάνε κλικ στην καρτέλα **Create**. Πρόσθεσε έναν κύλινδρο.
 
-We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.
+Θα δημιουργήσουμε τον πύραυλο απ' αυτόν τον κύλινδρο. Ο κύλινδρος θα αποτελεί τη βάση του πυραύλου και θα προσθέτουμε από πάνω του νέα αντικείμενα προκειμένου να κατασκευάσουμε τον πύραυλο.
 
-+ Switch to **Edit Mode** using the menu at the bottom.
++ Πήγαινε στη λειτουργία **Edit Mode** χρησιμοποιώντας το μενού στο κάτω μέρος.
 
 ![Edit mode](images/edit-mode.png)
 
-Let's create the fins that stabilize the rocket as it flies.
+Ας δημιουργήσουμε τα πτερύγια που σταθεροποιούν τον πύραυλο καθώς πετάει.
 
-+ Click on **Edge select** in the lower menu.
++ Κάνε κλικ στο **Edge select** στο κάτω μενού.
 
 ![Edge tool](images/blender-edge-tool.png)
 
-+ Right-click an edge at the base of the cylinder to select it.
++ Κάνε δεξί κλικ σε μια ακμή στη βάση του κυλίνδρου για να την επιλέξεις.
 
-![Select an edge](images/blender-rocket-fin-1-1.png)
+![Επιλογή μιας ακμής](images/blender-rocket-fin-1-1.png)
 
-+ Click and drag the edge out using the coloured arrows to create a fin.
++ Κάνε κλικ και σύρε την άκρη προς τα έξω χρησιμοποιώντας τα έγχρωμα βέλη προκειμένου να δημιουργήσεις ένα πτερύγιο.
 
-![Drag out the fin](images/blender-rocket-fin-1-2.png)
+![Σύρε το πτερύγιο](images/blender-rocket-fin-1-2.png)
 
-+ Create four fins.
++ Δημιούργησε τέσσερα πτερύγια.
 
-![Create another fin](images/blender-rocket-fin-2-1.png) ![Create another fin](images/blender-rocket-fin-3-1.png)
+![Δημιούργησε άλλο ένα πτερύγιο](images/blender-rocket-fin-2-1.png) ![Δημιούργησε άλλο ένα πτερύγιο](images/blender-rocket-fin-3-1.png)
 
-Now you have the base of your rocket!
+Τώρα έχεις τη βάση του πυραύλου σου!
