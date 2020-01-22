@@ -9,6 +9,7 @@ The nose cone should come to a point. To do this you can use the resize tool.
 + Resize the face using the red and green handles, turning it into more of a nose cone shape.
 
 ![Resize the face](images/blender-rocket-nose-resize-1.png)
+
 ![Resize the face](images/blender-rocket-nose-resize-2.png)
 
 + Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
