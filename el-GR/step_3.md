@@ -28,6 +28,8 @@
 
 + Δημιούργησε τέσσερα πτερύγια.
 
-![Δημιούργησε άλλο ένα πτερύγιο](images/blender-rocket-fin-2-1.png) ![Δημιούργησε άλλο ένα πτερύγιο](images/blender-rocket-fin-3-1.png)
+![Δημιούργησε άλλο ένα πτερύγιο](images/blender-rocket-fin-2-1.png)
 
-Τώρα έχεις τη βάση του πυραύλου σου!
+![Create another fin](images/blender-rocket-fin-3-1.png)
+
+Now you have the base of your rocket!
