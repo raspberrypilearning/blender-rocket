@@ -28,6 +28,8 @@
 
 + चार पंख बनाएँ
 
-![एक और पंख बनाएँ](images/blender-rocket-fin-2-1.png) ![एक और पंख बनाएँ](images/blender-rocket-fin-3-1.png)
+![एक और पंख बनाएँ](images/blender-rocket-fin-2-1.png)
 
-अब आपके पास आपके रॉकेट का आधार है!
+![Create another fin](images/blender-rocket-fin-3-1.png)
+
+Now you have the base of your rocket!
