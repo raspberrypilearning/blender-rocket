@@ -28,6 +28,8 @@ Let's create the fins that stabilize the rocket as it flies.
 
 + Create four fins.
 
-![Create another fin](images/blender-rocket-fin-2-1.png) ![Create another fin](images/blender-rocket-fin-3-1.png)
+![Create another fin](images/blender-rocket-fin-2-1.png)
+
+![Create another fin](images/blender-rocket-fin-3-1.png)
 
 Now you have the base of your rocket!
