@@ -1,37 +1,17 @@
-## Add stripes
+## Red nose
 
-+ Make sure the rocket is selected, then select **Edit Mode** from the lower menu. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
+Let's colour the nose red.
 
-![Edit mode](images/edit-mode.png)
++ Click to select the face of the nose.
 
-+ Click on the **Face select** tool from the lower menu.
+![Select the nose](images/blender-rocket-nose-select.png)
 
-![Face tool](images/blender-face-tool.png)
++ Add a new material called `red` and select a red colour for the **Base Color** menu.
 
-Now we will add a new material for the stripes.
+![Add a red material](images/blender-red-material.png)
 
-+ Go to the **Material** tab on the right menu panel, and add another new material by clicking the **+** icon.
++ Assign the red material to the nose.
 
-![Add another material](images/blender-add-material-plus-button.png)
++ Render to see your blue rocket with white stripes and a red nose.
 
-+ Click on **New** and call the material `white`.
-
-![Name the material](images/blender-name2-material.png)
-
-+ Select a white colour for the **Diffuse** menu.
-
-![Select a white colour](images/blender-white-material.png)
-
-Now you can add this colour to the faces of the rocket.
-
-+ Right-click to select a face on the rocket that you want to colour white.
-
-+ Click on the white material, then click on the **Assign** button to colour the face white.
-
-![Assign the material](images/blender-material-assign.png)
-
-Now select the next face to be coloured and give it the white colour by repeating the previous steps. You can select multiple faces at once by selecting a face and then holding <kbd>Shift</kbd> while selecting the other faces.
-
-![Colour the stripes](images/blender-rocket-2-faces-white.png)
-
-+ Render your rocket to see what it looks like.
+![Final rocket](images/final-rocket.png)
