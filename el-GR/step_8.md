@@ -1,17 +1,7 @@
-## Κόκκινη κορυφή
+## Challenge: more colour
 
-Ας χρωματίσουμε την κορυφή κόκκινη.
++ Can you add more colours to your rocket? Perhaps you could make the fins red?
 
-+ Κάνε δεξί κλικ για να επιλέξεις την κορυφή.
+![Red fins](images/more-colour.png)
 
-![Επιλογή κορυφής](images/blender-rocket-nose-select.png)
-
-+ Πρόσθεσε νέο υλικό με την ονομασία `red` και επίλεξε ένα κόκκινο χρώμα για το μενού **Diffuse**.
-
-![Προσθήκη κόκκινου υλικού](images/blender-red-material.png)
-
-+ Εκχώρησε το κόκκινο υλικό στην κορυφή με το Assign.
-
-+ Εκτέλεσε τον σχεδιασμό για να δεις να εμφανίζεται ένας μπλε πύραυλος με λευκές λωρίδες και κόκκινη κορυφή.
-
-![Τελικός πύραυλος](images/final-rocket.png)
++ Can you add another new material for a different colour?
