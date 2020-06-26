@@ -1,23 +1,37 @@
-## रॉकेट में रंग भरें
+## Add stripes
 
-सबसे पहले हम रॉकेट को एक मूल नीला रंग देंगे।
++ Make sure the rocket is selected, then select **Edit Mode** from the menu in the top left corner. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
 
-+ रॉकेट का चयन करें।
+![Edit mode](images/edit-mode.png)
 
-+ दाएँ मेनू पैनल पर **Material** (सामग्री) टैब पर जाएँ।
++ Click on the **Face select** tool from the menu next to the edit mode menu.
 
-![सामग्री टैब](images/blender-material-tab.png)
+![Face tool](images/blender-face-tool.png)
 
-+ **New** पर क्लिक करके कोई नई सामग्री जोड़ें।
+Now we will add a new material for the stripes.
 
-![कोई नई सामग्री जोड़ें](images/blender-new-material.png)
++ Go to the **Material Properties** tab on the right menu panel, and add another new material by clicking the **+** icon.
 
-+ इस सामग्री को `नीला`नाम दें।
+![Add another material](images/blender-add-material-plus-button.png)
 
-![सामग्री का कोई नाम रखें](images/blender-name-material.png)
++ Click on **New** and call the material `white`.
 
-+ अपने रॉकेट में नीला रंग भरने के लिए **Diffuse** मेनू से किसी नीले रंग का चयन करें।
+![Name the material](images/blender-name2-material.png)
 
-![नीली सामग्री](images/blender-blue-material.png)
++ Select a white colour for the **Base Color** menu.
 
-![नीला रॉकेट](images/blender-blue-rocket.png)
+![Select a white colour](images/blender-white-material.png)
+
+Now you can add this colour to the faces of the rocket.
+
++ Click to select a face on the rocket that you want to colour white.
+
++ Click on the white material, then click on the **Assign** button to colour the face white.
+
+![Assign the material](images/blender-material-assign.png)
+
+Now select the next face to be coloured and give it the white colour by repeating the previous steps. You can select multiple faces at once by selecting a face and then holding <kbd>Shift</kbd> while selecting the other faces.
+
+![Colour the stripes](images/blender-rocket-white-faces.png)
+
++ Render your rocket to see what it looks like.
