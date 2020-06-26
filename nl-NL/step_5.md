@@ -1,31 +1,23 @@
-## Nose cone
+## Colour the rocket
 
-The nose cone should come to a point. To do this you can use the resize tool.
+First we will give the rocket a basic blue colour.
 
-+ Select the **cube end** tool.
++ Select the rocket.
 
-![Cube ends tool](images/blender-handles-menu-2.png)
++ Go to the **Material Properties** tab on the right menu panel.
 
-+ Resize the face using the red and green handles, turning it into more of a nose cone shape.
+![Material tab](images/blender-material-tab.png)
 
-![Resize the face](images/blender-rocket-nose-resize-1.png)
++ Add a new material by clicking **New**.
 
-![Resize the face](images/blender-rocket-nose-resize-2.png)
+![Add a new material](images/blender-new-material.png)
 
-+ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
++ Call the material `blue`.
 
-![Render the rocket](images/blender-rocket-render-1.png)
+![Name the material](images/blender-name-material.png)
 
-It might look a bit big, but you can resize the whole rocket.
++ Select a blue color from the **Base Color** menu to colour your rocket blue.
 
-+ Druk op <kbd>ESC</kbd> om de render weergave te verlaten.
+![Blue material](images/blender-blue-material.png)
 
-+ Switch back to **Object Mode** using the menu at the bottom.
-
-+ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
-
-![Resize the rocket](images/blender-rocket-resize.png)
-
-+ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
-
-![Small rendered rocket](images/blender-rocket-render-2.png)
+![Blue rocket](images/blender-blue-rocket.png)
