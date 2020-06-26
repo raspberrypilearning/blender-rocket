@@ -1,31 +1,23 @@
-## Κωνική κορυφή
+## Colour the rocket
 
-Η κωνική κορυφή πρέπει να καταλήγει σ' ένα σημείο. Για να το πετύχεις αυτό μπορείς να χρησιμοποιήσεις το εργαλείο αλλαγής μεγέθους.
+First we will give the rocket a basic blue colour.
 
-+ Επίλεξε το εργαλείο **cube end**.
++ Select the rocket.
 
-![Εργαλείο Cube ends](images/blender-handles-menu-2.png)
++ Go to the **Material Properties** tab on the right menu panel.
 
-+ Άλλαξε το μέγεθος της περιοχής χρησιμοποιώντας τις κόκκινες και πράσινες λαβές, μετατρέποντάς το σε κωνική κορυφή.
+![Material tab](images/blender-material-tab.png)
 
-![Αλλαγή μεγέθους όψης](images/blender-rocket-nose-resize-1.png)
++ Add a new material by clicking **New**.
 
-![Resize the face](images/blender-rocket-nose-resize-2.png)
+![Add a new material](images/blender-new-material.png)
 
-+ Δημιούργησε την εικόνα πατώντας <kbd>F12</kbd> (<kbd>FN + F12</kbd> αν χρησιμοποιείς Mac) για να δεις πώς θα φαίνεται ο πύραυλός σου.
++ Call the material `blue`.
 
-![Render the rocket](images/blender-rocket-render-1.png)
+![Name the material](images/blender-name-material.png)
 
-It might look a bit big, but you can resize the whole rocket.
++ Select a blue color from the **Base Color** menu to colour your rocket blue.
 
-+ Πάτησε <kbd>ESC</kbd> για να βγεις από την προβολή εμφάνισης.
+![Blue material](images/blender-blue-material.png)
 
-+ Πήγαινε στη λειτουργία **Object Mode** χρησιμοποιώντας το μενού στο κάτω μέρος.
-
-+ Πάτα το πλήκτρο <kbd>S</kbd> για αλλαγή μεγέθους και κατόπιν συρρίκνωσε τον πύραυλο. Κάνε κλικ όταν θα είσαι ικανοποιημένος με το μέγεθος.
-
-![Resize the rocket](images/blender-rocket-resize.png)
-
-+ Εκτέλεσε ξανά την ιδια ενέργεια πατώντας <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) για να επιβεβαιώσεις πως ο πύραυλος έχει το σωστό μέγεθος.
-
-![Small rendered rocket](images/blender-rocket-render-2.png)
+![Blue rocket](images/blender-blue-rocket.png)
