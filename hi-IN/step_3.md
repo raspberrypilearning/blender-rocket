@@ -1,35 +1,29 @@
-## रॉकेट का आधार
+## Body of the rocket
 
-+ Blender (ब्लेंडर) खोलें और स्प्लैश स्क्रीन से बाहर निकलें।
+Now let's create the body of the rocket.
 
-+ क्यूब का चयन करके आरंभ करें, फिर उसे हटाने के लिए <kbd>X</kbd> दबाएँ।
++ Switch to the **Face select** tool.
 
-+ टूलबॉक्स पर जाएँ, और **Create** टैब पर क्लिक करें। एक सिलेंडर जोड़ें।
+![Face select tool](images/blender-face-tool.png)
 
-हम इस सिलेंडर से रॉकेट बनाएँगे। सिलेंडर रॉकेट का निचला हिस्सा होगा, और हम रॉकेट बनाने के लिए इसके ऊपर के हिस्से पर कुछ जोड़ेंगे।
++ Click to select the top face of the cylinder.
 
-+ नीचे दिए गए मेनू का उपयोग करते हुए **Edit Mode** में जाएँ।
+If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
 
-![संपादन मोड](images/edit-mode.png)
+![Pull rocket up](images/blender-rocket-pull.png)
 
-आइए उन पंखों को तैयार करते हैं जो रॉकेट को उड़ते समय स्थिरता प्रदान करते हैं।
+You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
 
-+ नीचे के मेनू में **Edge select** पर क्लिक करें।
+Instead, we will extrude this face.
 
-![एज टूल](images/blender-edge-tool.png)
++ Select **Extrude region** from the list of tools on the left, or if you prefer, use the shortcut key <kbd>E</kbd>.
 
-+ इसे चुनने के लिए सिलेंडर के आधार पर किसी किनारे पर राइट-क्लिक करें।
+![Extrude region](images/extrude-region.png)
 
-![किसी एज का चयन करें](images/blender-rocket-fin-1-1.png)
++ Pull the section up to create a taller rocket using the `+`, then click when you are happy.
 
-+ पंख बनाने के लिए रंगीन तीरों का उपयोग करके किनारे पर क्लिक करें और खींचें।
+![Extrude region](images/blender-rocket-body-extrude.png)
 
-![पंख को बाहर खींचें](images/blender-rocket-fin-1-2.png)
++ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
 
-+ चार पंख बनाएँ
-
-![एक और पंख बनाएँ](images/blender-rocket-fin-2-1.png)
-
-![Create another fin](images/blender-rocket-fin-3-1.png)
-
-Now you have the base of your rocket!
+![Nose cone](images/blender-rocket-nose-extrude.png)
