@@ -1,29 +1,29 @@
-## Body of the rocket
+## Nose cone
 
-Now let's create the body of the rocket.
+The nose cone should come to a point. To do this you can use the resize tool.
 
-+ Switch to the **Face select** tool.
++ Select the top face of the rocket again.
 
-![Face select tool](images/blender-face-tool.png)
+![Cube ends tool](images/blender-rocket-top-face.png)
 
-+ Right-click to select the top face of the cylinder.
++ Resize the face by pressing <kbd>S</kbd> and moving your mouse, turning it into more of a nose cone shape. Click when you have the shape that you want.
 
-If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
+![Resize the face](images/blender-rocket-cone-nose.png)
 
-![Pull rocket up](images/blender-rocket-pull.png)
++ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
 
-You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
+![Render the rocket](images/blender-rocket-render-1.png)
 
-Instead, we will extrude this face.
+It might look a bit big, but you can resize the whole rocket.
 
-+ Go to the Toolbox, select the **Tools** tab, then select **Extrude region**.
++ Press <kbd>ESC</kbd> to exit the render view.
 
-![Extrude region](images/extrude-region.png)
++ Switch back to **Object Mode** using the menu at the top left and select the rocket by clicking on it.
 
-+ Pull the section up to create a taller rocket, then click when you are happy.
++ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
 
-![Extrude region](images/blender-rocket-body-extrude.png)
+![Resize the rocket](images/blender-rocket-resize.png)
 
-+ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
++ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
 
-![Nose cone](images/blender-rocket-nose-extrude.png)
+![Small rendered rocket](images/blender-rocket-render-2.png)
