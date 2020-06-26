@@ -1,37 +1,17 @@
-## Πρόσθεσε λωρίδες
+## Red nose
 
-+ Βεβαιώσου οτι ο πύραυλος είναι επιλεγμένος και κατόπιν επίλεξε **Edit Mode** από το κάτω μενού. Αν προτιμάς, χρησιμοποίησε το πλήκτρο <kbd>Tab</kbd> ως συντόμευση.
+Let's colour the nose red.
 
-![Edit mode](images/edit-mode.png)
++ Click to select the face of the nose.
 
-+ Κάνε κλικ στο εργαλείο **Face select** από το κάτω μενού.
+![Select the nose](images/blender-rocket-nose-select.png)
 
-![Face tool](images/blender-face-tool.png)
++ Add a new material called `red` and select a red colour for the **Base Color** menu.
 
-Τώρα θα προσθέσουμε ένα νέο υλικό για τις λωρίδες.
+![Add a red material](images/blender-red-material.png)
 
-+ Πήγαινε στην καρτέλα **Material** στο δεξιό μενού και πρόσθεσε ένα νέο υλικό κάνοντας κλικ στο εικονίδιο **+**.
++ Assign the red material to the nose.
 
-![Προσθήκη νέου υλικού](images/blender-add-material-plus-button.png)
++ Render to see your blue rocket with white stripes and a red nose.
 
-+ Κάνε κλικ στο **New** και ονόμασε το υλικό `white`.
-
-![Ονόμασε το υλικό](images/blender-name2-material.png)
-
-+ Επίλεξε ένα λευκό χρώμα για το μενού **Diffuse**.
-
-![Επίλεξε ένα λευκό χρώμα](images/blender-white-material.png)
-
-Τώρα μπορείς να προσθέσεις αυτό το χρώμα στις λωρίδες του πυραύλου σου.
-
-+ Κάνε δεξί κλικ για να επιλέξεις μια λωρίδα πάνω στον πύραυλο που θες να χρωματίσεις λευκή.
-
-+ Κάνε κλικ στο υλικό white και μετά κλικ στο κουμπί **Assign** για να βάψεις τη λωρίδα λευκή.
-
-![Εκχώρησε το υλικό](images/blender-material-assign.png)
-
-Τώρα επίλεξε την επόμενη λωρίδα που θες να χρωματιστεί και δώσε της λευκό χρώμα επαναλαμβάνοντας τα προηγούμενα βήματα. Μπορείς να επιλέξεις πολλές λωρίδες ταυτόχρονα επιλέγοντας μια και κατόπιν κρατώντας πατημένο το πλήκτρο <kbd>Shift</kbd> επιλέγεις και τις υπόλοιπες.
-
-![Χρωμάτισε τις λωρίδες](images/blender-rocket-2-faces-white.png)
-
-+ Εκτέλεσε τον σχεδιασμό του πυραύλου για να δεις πώς θα φαίνεται.
+![Final rocket](images/final-rocket.png)
