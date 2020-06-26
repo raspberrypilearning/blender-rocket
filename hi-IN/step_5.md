@@ -1,31 +1,23 @@
-## नाक शंकु
+## Colour the rocket
 
-नाक शंकु किसी बिंदु पर आना चाहिए। ऐसा करने के लिए आप आकार बदलने के टूल का उपयोग कर सकते हैं।
+First we will give the rocket a basic blue colour.
 
-+ **cube end** टूल का चयन करें।
++ Select the rocket.
 
-![क्यूब समाप्ति टूल](images/blender-handles-menu-2.png)
++ Go to the **Material Properties** tab on the right menu panel.
 
-+ लाल और हरे रंग के हैंडल का उपयोग करके आकृति का आकार बदलें, इसे जितना अधिक हो सके नाक शंकु के आकार में बदल दें।
+![Material tab](images/blender-material-tab.png)
 
-![आकृति का आकार बदलें](images/blender-rocket-nose-resize-1.png)
++ Add a new material by clicking **New**.
 
-![Resize the face](images/blender-rocket-nose-resize-2.png)
+![Add a new material](images/blender-new-material.png)
 
-+ <kbd>F12</kbd> दबाकर (या यदि आप मैक का उपयोग कर रहे हैं तो <kbd>FN + F12</kbd> दबाकर) छवि प्रस्तुत करें और देखें कि रॉकेट कैसा दिखता है।
++ Call the material `blue`.
 
-![Render the rocket](images/blender-rocket-render-1.png)
+![Name the material](images/blender-name-material.png)
 
-It might look a bit big, but you can resize the whole rocket.
++ Select a blue color from the **Base Color** menu to colour your rocket blue.
 
-+ प्रस्तुत दृश्य से बाहर निकलने के लिए <kbd>ESC</kbd> दबाएँ।
+![Blue material](images/blender-blue-material.png)
 
-+ नीचे दिए गए मेनू का उपयोग करते हुए **Object Mode** में वापस जाएंँ।
-
-+ आकार बदलने के लिए <kbd>S</kbd> कुंजी दबाएँ, फिर रॉकेट को थोड़ा छोटा करें। जब आप आकार से संतुष्ट हों तो क्लिक करें।
-
-![Resize the rocket](images/blender-rocket-resize.png)
-
-+ यह पुष्टि करने के लिए कि रॉकेट का आकार सही है <kbd>F12</kbd> (या <kbd>FN + F12</kbd>) दबाकर फिर से प्रस्तुत करें।
-
-![Small rendered rocket](images/blender-rocket-render-2.png)
+![Blue rocket](images/blender-blue-rocket.png)
