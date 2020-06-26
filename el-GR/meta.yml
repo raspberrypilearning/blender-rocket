@@ -13,24 +13,22 @@ technologies: blender
 site_areas: projects
 hardware: ''
 software: blender
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2020-01-29
 steps:
   - 
     title: Εισαγωγή
   - 
-    title: Τι θα χρειαστείς
+    title: Base of the rocket
   - 
-    title: Η βάση του πυραύλου
+    title: Body of the rocket
   - 
-    title: Το σώμα του πυραύλου
+    title: Nose cone
   - 
-    title: Κώνος κορυφής
+    title: Colour the rocket
   - 
-    title: Χρωμάτισε τον πύραυλο
+    title: Add stripes
   - 
-    title: Πρόσθεσε λωρίδες
+    title: Red nose
   - 
-    title: Κόκκινη κορυφή
-  - 
-    title: "Πρόκληση: Περισσότερο χρώμα"
+    title: "Challenge: more colour"
