@@ -2,35 +2,33 @@
 title: राकेट
 hero_image: images/banner.png
 description: Blender का उपयोग करके एक रॉकेट का मॉडल बनाएँ!
-theme: नीला #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
 ingredient: false
 copyedit: true
-curriculum: creator, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-interests: अंतरिक्ष, कला
-technologies: blender (ब्लेंडर)
-site_areas: प्रोजेक्ट
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: space, art
+technologies: blender
+site_areas: projects
 hardware: ''
 software: blender
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2020-01-29
 steps:
   - 
     title: भूमिका
   - 
-    title: आपको किसकी ज़रूरत होगी
+    title: Base of the rocket
   - 
-    title: रॉकेट का आधार
+    title: Body of the rocket
   - 
-    title: रॉकेट की बॉडी
+    title: Nose cone
   - 
-    title: नाक शंकु
+    title: Colour the rocket
   - 
-    title: रॉकेट में रंग भरें
+    title: Add stripes
   - 
-    title: पट्टियाँ जोड़ें
+    title: Red nose
   - 
-    title: लाल नाक
-  - 
-    title: "चुनौती: अधिक रंग"
+    title: "Challenge: more colour"
