@@ -1,17 +1,7 @@
-## लाल नाक
+## Challenge: more colour
 
-आइए नाक पर लाल रंग करें।
++ Can you add more colours to your rocket? Perhaps you could make the fins red?
 
-+ नाक की आकृति का चयन करने के लिए राइट-क्लिक करें।
+![Red fins](images/more-colour.png)
 
-![नाक का चयन करें](images/blender-rocket-nose-select.png)
-
-+ `लाल` नाम की एक नई सामग्री जोड़ें और **Diffuse** मेनू के लिए किसी लाल रंग का चयन करें।
-
-![कोई लाल सामग्री जोड़ें](images/blender-red-material.png)
-
-+ लाल सामग्री को नाक के लिए निर्धारित करें।
-
-+ अपने नीले रॉकेट को सफेद पट्टियों और लाल नाक के साथ देखने के लिए प्रस्तुत करें।
-
-![अंतिम रॉकेट](images/final-rocket.png)
++ Can you add another new material for a different colour?
