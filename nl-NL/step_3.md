@@ -1,35 +1,29 @@
-## Base of the rocket
+## Body of the rocket
 
-+ Open Blender and exit the splash screen.
+Now let's create the body of the rocket.
 
-+ Start by selecting the cube, then press <kbd>X</kbd> to delete it.
++ Switch to the **Face select** tool.
 
-+ Go to the Toolbox, and click on the **Create** tab. Add a cylinder.
+![Face select tool](images/blender-face-tool.png)
 
-We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.
++ Click to select the top face of the cylinder.
 
-+ Switch to **Edit Mode** using the menu at the bottom.
+If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
 
-![Edit mode](images/edit-mode.png)
+![Pull rocket up](images/blender-rocket-pull.png)
 
-Let's create the fins that stabilize the rocket as it flies.
+You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
 
-+ Click on **Edge select** in the lower menu.
+Instead, we will extrude this face.
 
-![Edge tool](images/blender-edge-tool.png)
++ Select **Extrude region** from the list of tools on the left, or if you prefer, use the shortcut key <kbd>E</kbd>.
 
-+ Right-click an edge at the base of the cylinder to select it.
+![Extrude region](images/extrude-region.png)
 
-![Select an edge](images/blender-rocket-fin-1-1.png)
++ Pull the section up to create a taller rocket using the `+`, then click when you are happy.
 
-+ Click and drag the edge out using the coloured arrows to create a fin.
+![Extrude region](images/blender-rocket-body-extrude.png)
 
-![Drag out the fin](images/blender-rocket-fin-1-2.png)
++ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
 
-+ Create four fins.
-
-![Create another fin](images/blender-rocket-fin-2-1.png)
-
-![Create another fin](images/blender-rocket-fin-3-1.png)
-
-Now you have the base of your rocket!
+![Nose cone](images/blender-rocket-nose-extrude.png)
