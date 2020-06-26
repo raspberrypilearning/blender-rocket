@@ -1,49 +1,29 @@
-## रॉकेट की बॉडी
+## Nose cone
 
-आइए अब रॉकेट की बॉडी बनाते हैं।
+The nose cone should come to a point. To do this you can use the resize tool.
 
-+ **Face select** टूल पर जाएँ।
++ Select the top face of the rocket again.
 
-![चेहरा चयन करने का टूल](images/blender-face-tool.png)
+![Cube ends tool](images/blender-rocket-top-face.png)
 
-+ सिलेंडर की ऊपर की आकृति का चयन करने के लिए राइट-क्लिक करें।
++ Resize the face by pressing <kbd>S</kbd> and moving your mouse, turning it into more of a nose cone shape. Click when you have the shape that you want.
 
-यदि आप इसे ऊपर खींचते हैं, तो यह थोड़ा अजीब लगता है। हर चीज़ ऊपर चली जाएगी, और यह वह नहीं है जो आप चाहते हैं।
+![Resize the face](images/blender-rocket-cone-nose.png)
 
-![रॉकेट को ऊपर खींचें](images/blender-rocket-pull.png)
++ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
 
-आपके द्वारा किए गए किन्हीं भी परिवर्तनों को पूर्ववत् करने के लिए आप </kbd>CTRL + Z<kbd> दबा सकते हैं।</p> 
+![Render the rocket](images/blender-rocket-render-1.png)
 
-<p>
-  इसके बजाय, हम इस आकृति को बाहर निकालेंगे।
-</p>
+It might look a bit big, but you can resize the whole rocket.
 
-<ul>
-  <li>
-    टूलबॉक्स पर जाएँ, <strong>Tools</strong> टैब का चयन करें, फिर <strong>Extrude region</strong> का चयन करें।
-  </li>
-</ul>
++ Press <kbd>ESC</kbd> to exit the render view.
 
-<p>
-  <img src="images/extrude-region.png" alt="बाहर निकालने का क्षेत्र" />
-</p>
++ Switch back to **Object Mode** using the menu at the top left and select the rocket by clicking on it.
 
-<ul>
-  <li>
-    अधिक लंबा रॉकेट बनाने के लिए इस हिस्से को खींच कर ऊपर ले जाएँ, फिर जब आप संतुष्ट हों तो क्लिक करें।
-  </li>
-</ul>
++ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
 
-<p>
-  <img src="images/blender-rocket-body-extrude.png" alt="बाहर निकालने का क्षेत्र" />
-</p>
+![Resize the rocket](images/blender-rocket-resize.png)
 
-<ul>
-  <li>
-    नाक के शंकु के आधार तैयार करने के लिए उसी आकृति को एक बार फिर बाहर निकालें। या तो मेनू से फिर से <strong>Extrude region</strong> का चयन करें, या यदि आप चाहें, तो शॉर्टकट कुंजी <kbd>E</kbd> का उपयोग करें।
-  </li>
-</ul>
++ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
 
-<p>
-  <img src="images/blender-rocket-nose-extrude.png" alt="नाक शंकु" />
-</p>
+![Small rendered rocket](images/blender-rocket-render-2.png)
