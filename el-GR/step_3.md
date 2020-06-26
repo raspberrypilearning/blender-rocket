@@ -1,35 +1,29 @@
-## Η βάση του πυραύλου
+## Body of the rocket
 
-+ Άνοιξε το Blender και βγες από την οθόνη εκκίνησης.
+Now let's create the body of the rocket.
 
-+ Ξεκίνησε επιλέγοντας τον κύβο, κατόπιν πάτα <kbd>Χ</kbd> για να τον διαγράψεις.
++ Switch to the **Face select** tool.
 
-+ Πήγαινε στην εργαλειοθήκη και κάνε κλικ στην καρτέλα **Create**. Πρόσθεσε έναν κύλινδρο.
+![Face select tool](images/blender-face-tool.png)
 
-Θα δημιουργήσουμε τον πύραυλο απ' αυτόν τον κύλινδρο. Ο κύλινδρος θα αποτελεί τη βάση του πυραύλου και θα προσθέτουμε από πάνω του νέα αντικείμενα προκειμένου να κατασκευάσουμε τον πύραυλο.
++ Click to select the top face of the cylinder.
 
-+ Πήγαινε στη λειτουργία **Edit Mode** χρησιμοποιώντας το μενού στο κάτω μέρος.
+If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
 
-![Edit mode](images/edit-mode.png)
+![Pull rocket up](images/blender-rocket-pull.png)
 
-Ας δημιουργήσουμε τα πτερύγια που σταθεροποιούν τον πύραυλο καθώς πετάει.
+You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
 
-+ Κάνε κλικ στο **Edge select** στο κάτω μενού.
+Instead, we will extrude this face.
 
-![Edge tool](images/blender-edge-tool.png)
++ Select **Extrude region** from the list of tools on the left, or if you prefer, use the shortcut key <kbd>E</kbd>.
 
-+ Κάνε δεξί κλικ σε μια ακμή στη βάση του κυλίνδρου για να την επιλέξεις.
+![Extrude region](images/extrude-region.png)
 
-![Επιλογή μιας ακμής](images/blender-rocket-fin-1-1.png)
++ Pull the section up to create a taller rocket using the `+`, then click when you are happy.
 
-+ Κάνε κλικ και σύρε την άκρη προς τα έξω χρησιμοποιώντας τα έγχρωμα βέλη προκειμένου να δημιουργήσεις ένα πτερύγιο.
+![Extrude region](images/blender-rocket-body-extrude.png)
 
-![Σύρε το πτερύγιο](images/blender-rocket-fin-1-2.png)
++ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
 
-+ Δημιούργησε τέσσερα πτερύγια.
-
-![Δημιούργησε άλλο ένα πτερύγιο](images/blender-rocket-fin-2-1.png)
-
-![Create another fin](images/blender-rocket-fin-3-1.png)
-
-Now you have the base of your rocket!
+![Nose cone](images/blender-rocket-nose-extrude.png)
