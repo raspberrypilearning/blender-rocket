@@ -1,29 +1,29 @@
-## Το σώμα του πυραύλου
+## Nose cone
 
-Τώρα ας δημιουργήσουμε το σώμα του πυραύλου.
+The nose cone should come to a point. To do this you can use the resize tool.
 
-+ Πήγαινε στο εργαλείο **Face select**.
++ Select the top face of the rocket again.
 
-![Εργαλείο face select](images/blender-face-tool.png)
+![Cube ends tool](images/blender-rocket-top-face.png)
 
-+ Κάνε δεξί κλικ για να επιλέξεις την πάνω όψη του κυλίνδρου.
++ Resize the face by pressing <kbd>S</kbd> and moving your mouse, turning it into more of a nose cone shape. Click when you have the shape that you want.
 
-Άν την τραβήξεις προς τα πάνω φαίνεται λίγο περίεργη. Όλα θα τραβηχτούν προς τα πάνω και αυτό είναι κάτι που δεν θέλεις.
+![Resize the face](images/blender-rocket-cone-nose.png)
 
-![Τράβηξε τον πύραυλο προς τα πάνω](images/blender-rocket-pull.png)
++ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
 
-Με <kbd>CTRL + Z</kbd> ακυρώνεις τυχόν αλλαγές που έκανες.
+![Render the rocket](images/blender-rocket-render-1.png)
 
-Αντ' αυτού θα εξωθήσουμε αυτή την περιοχή.
+It might look a bit big, but you can resize the whole rocket.
 
-+ Πήγαινε στην εργαλειοθήκη, επίλεξε την καρτέλα **Tools** και κατόπιν επίλεξε **Extrude region**.
++ Press <kbd>ESC</kbd> to exit the render view.
 
-![Extrude region](images/extrude-region.png)
++ Switch back to **Object Mode** using the menu at the top left and select the rocket by clicking on it.
 
-+ Τράβηξε το τμήμα προς τα πάνω για να δημιουργήσεις ένα ψηλότερο πύραυλο και μετά κάνε κλικ όταν θα είσαι ευχαριστημένος με το αποτέλεσμα.
++ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
 
-![Extrude region](images/blender-rocket-body-extrude.png)
+![Resize the rocket](images/blender-rocket-resize.png)
 
-+ Εξώθησε πάλι το ίδιο τμήμα προς τα πάνω για να δημιουργήσεις τη βάση της κωνικής κορφής του πυραύλου. Είτε επιλέγοντας **Extrude region** από το μενού ξανά είτε, αν προτιμάς, χρησιμοποιώντας το πλήκτρο συντόμευσης <kbd>E</kbd>.
++ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
 
-![Κώνος κορυφής](images/blender-rocket-nose-extrude.png)
+![Small rendered rocket](images/blender-rocket-render-2.png)
