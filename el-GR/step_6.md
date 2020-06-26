@@ -1,23 +1,37 @@
-## Χρωμάτισε τον πύραυλο
+## Add stripes
 
-Πρώτα θα δώσουμε στον πυραύλο ένα βασικό μπλε χρώμα.
++ Make sure the rocket is selected, then select **Edit Mode** from the menu in the top left corner. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
 
-+ Επίλεξε τον πύραυλο.
+![Edit mode](images/edit-mode.png)
 
-+ Πήγαινε στην καρτέλα **Material** στο δεξιό μενού.
++ Click on the **Face select** tool from the menu next to the edit mode menu.
 
-![Καρτέλα υλικού](images/blender-material-tab.png)
+![Face tool](images/blender-face-tool.png)
 
-+ Πρόσθεσε νέο υλικό κλικάροντας στο **New**.
+Now we will add a new material for the stripes.
 
-![Προσθήκη νέου υλικού](images/blender-new-material.png)
++ Go to the **Material Properties** tab on the right menu panel, and add another new material by clicking the **+** icon.
 
-+ Ονόμασε το υλικό `blue`.
+![Add another material](images/blender-add-material-plus-button.png)
 
-![Ονόμασε το υλικό](images/blender-name-material.png)
++ Click on **New** and call the material `white`.
 
-+ Επίλεξε ένα μπλε χρώμα από το μενού **Diffuse** για να χρωματίσεις τον πύραυλο μπλε.
+![Name the material](images/blender-name2-material.png)
 
-![Μπλε υλικό](images/blender-blue-material.png)
++ Select a white colour for the **Base Color** menu.
 
-![Μπλε πύραυλος](images/blender-blue-rocket.png)
+![Select a white colour](images/blender-white-material.png)
+
+Now you can add this colour to the faces of the rocket.
+
++ Click to select a face on the rocket that you want to colour white.
+
++ Click on the white material, then click on the **Assign** button to colour the face white.
+
+![Assign the material](images/blender-material-assign.png)
+
+Now select the next face to be coloured and give it the white colour by repeating the previous steps. You can select multiple faces at once by selecting a face and then holding <kbd>Shift</kbd> while selecting the other faces.
+
+![Colour the stripes](images/blender-rocket-white-faces.png)
+
++ Render your rocket to see what it looks like.
