@@ -1,0 +1,34 @@
+---
+title: राकेट
+hero_image: images/banner.png
+description: Blender का उपयोग करके एक रॉकेट का मॉडल बनाएँ!
+theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+interests: space, art
+technologies: blender
+site_areas: projects
+hardware: ''
+software: blender
+version: 4
+last_tested: 2020-01-29
+steps:
+  - 
+    title: परिचय
+  - 
+    title: रॉकेट का आधार
+  - 
+    title: रॉकेट की बॉडी
+  - 
+    title: नाक शंकु
+  - 
+    title: रॉकेट में रंग भरें
+  - 
+    title: धारियां जोड़ें
+  - 
+    title: लाल नाक
+  - 
+    title: "चुनौती: अधिक रंग"
