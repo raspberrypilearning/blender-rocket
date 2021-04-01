@@ -1,37 +1,37 @@
-## Add stripes
+## Voeg strepen toe
 
-+ Make sure the rocket is selected, then select **Edit Mode** from the menu in the top left corner. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
++ Zorg ervoor dat de raket is geselecteerd en selecteer vervolgens **Edit Mode** in het menu in de linkerbovenhoek. Als je wilt, kun je de <kbd>Tab</kbd> toets als snelkoppeling gebruiken.
 
-![Edit mode](images/edit-mode.png)
+![Bewerkingsmodus](images/edit-mode.png)
 
-+ Click on the **Face select** tool from the menu next to the edit mode menu.
++ Klik op het **Face select** gereedschap in het menu vlak naast het edit mode menu.
 
-![Face tool](images/blender-face-tool.png)
+![Vlakgereedschap](images/blender-face-tool.png)
 
-Now we will add a new material for the stripes.
+Nu gaan we een nieuw materiaal voor de strepen toevoegen.
 
-+ Go to the **Material Properties** tab on the right menu panel, and add another new material by clicking the **+** icon.
++ Ga naar het tabblad **Material Properties** in het rechtermenu en voeg nog een nieuw materiaal toe door op het pictogram **+** te klikken.
 
-![Add another material](images/blender-add-material-plus-button.png)
+![Voeg nog een materiaal toe](images/blender-add-material-plus-button.png)
 
-+ Click on **New** and call the material `white`.
++ Klik op **Nieuw** en noem het materiaal `white` (wit).
 
-![Name the material](images/blender-name2-material.png)
+![Geef het materiaal een naam](images/blender-name2-material.png)
 
-+ Select a white colour for the **Base Color** menu.
++ Selecteer een witte kleur in het menu **Base Color**.
 
-![Select a white colour](images/blender-white-material.png)
+![Selecteer een witte kleur](images/blender-white-material.png)
 
-Now you can add this colour to the faces of the rocket.
+Nu kun je deze kleur toevoegen aan de vlakken van de raket.
 
-+ Click to select a face on the rocket that you want to colour white.
++ Klik om een vlak op de raket te selecteren dat je wit wilt kleuren.
 
-+ Click on the white material, then click on the **Assign** button to colour the face white.
++ Klik op het witte materiaal en klik vervolgens op de **Assign** (toewijzen) knop om het vlak wit te kleuren.
 
-![Assign the material](images/blender-material-assign.png)
+![Wijs het materiaal toe](images/blender-material-assign.png)
 
-Now select the next face to be coloured and give it the white colour by repeating the previous steps. You can select multiple faces at once by selecting a face and then holding <kbd>Shift</kbd> while selecting the other faces.
+Selecteer nu het volgende vlak dat je wilt kleuren en geef het de witte kleur door de vorige stappen te herhalen. Je kunt meerdere vlakken tegelijk selecteren door een vlak te selecteren en vervolgens <kbd>Shift</kbd> ingedrukt te houden terwijl je de andere vlakken selecteert.
 
-![Colour the stripes](images/blender-rocket-white-faces.png)
+![Kleur de strepen](images/blender-rocket-white-faces.png)
 
-+ Render your rocket to see what it looks like.
++ Render je raket om te zien hoe hij eruit ziet.
