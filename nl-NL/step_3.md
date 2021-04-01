@@ -1,29 +1,29 @@
-## Body of the rocket
+## Lichaam van de raket
 
-Now let's create the body of the rocket.
+Laten we nu het lichaam van de raket maken.
 
-+ Switch to the **Face select** tool.
++ Schakel over naar het **Face select** (vlak selecteren) gereedschap.
 
-![Face select tool](images/blender-face-tool.png)
+![Vlakselectiegereedschap](images/blender-face-tool.png)
 
-+ Click to select the top face of the cylinder.
++ Klik om het bovenvlak van de cilinder te selecteren.
 
-If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
+Als je hem omhoog trekt, ziet het er een beetje raar uit. Alles gaat omhoog, en dat is niet wat je wilt.
 
-![Pull rocket up](images/blender-rocket-pull.png)
+![Trek raket omhoog](images/blender-rocket-pull.png)
 
-You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
+Je kunt op <kbd>CTRL + Z</kbd> drukken om wijzigingen die je hebt gemaakt ongedaan te maken.
 
-Instead, we will extrude this face.
+In plaats daarvan gaan we dit vlak uitbouwen.
 
-+ Select **Extrude region** from the list of tools on the left, or if you prefer, use the shortcut key <kbd>E</kbd>.
++ Selecteer **Extrude region** (gebied uitbouwen) uit de lijst met gereedschappen aan de linkerkant, of gebruik desgewenst de sneltoets <kbd>E</kbd>.
 
-![Extrude region](images/extrude-region.png)
+![Bouw gebied uit](images/extrude-region.png)
 
-+ Pull the section up to create a taller rocket using the `+`, then click when you are happy.
++ Trek het gedeelte omhoog om een grotere raket te maken met behulp van de `+`, en klik vervolgens als je tevreden bent.
 
-![Extrude region](images/blender-rocket-body-extrude.png)
+![Bouw gebied uit](images/blender-rocket-body-extrude.png)
 
-+ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
++ Bouw hetzelfde vlak nogmaals uit om de basis van de neuskegel te vormen. Selecteer **Extrude region** opnieuw in het menu, of gebruik, indien gewenst, de sneltoets <kbd>E</kbd>.
 
-![Nose cone](images/blender-rocket-nose-extrude.png)
+![Neuskegel](images/blender-rocket-nose-extrude.png)
