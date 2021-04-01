@@ -1,23 +1,23 @@
-## Colour the rocket
+## Kleur de raket
 
-First we will give the rocket a basic blue colour.
+Eerst geven we de raket een blauwe basiskleur.
 
-+ Select the rocket.
++ Selecteer de raket.
 
-+ Go to the **Material Properties** tab on the right menu panel.
++ Ga naar het tabblad **Material Properties** (materiaaleigenschappen) in het rechtermenu.
 
-![Material tab](images/blender-material-tab.png)
+![Materiaal tab](images/blender-material-tab.png)
 
-+ Add a new material by clicking **New**.
++ Voeg een nieuw materiaal toe door op **Nieuw** te klikken.
 
-![Add a new material](images/blender-new-material.png)
+![Voeg een nieuw materiaal toe](images/blender-new-material.png)
 
-+ Call the material `blue`.
++ Noem het materiaal `blue` (blauw).
 
-![Name the material](images/blender-name-material.png)
+![Geef het materiaal een naam](images/blender-name-material.png)
 
-+ Select a blue color from the **Base Color** menu to colour your rocket blue.
++ Selecteer een blauwe kleur uit het **Base Color** (basiskleur) menu om je raket blauw te kleuren.
 
-![Blue material](images/blender-blue-material.png)
+![Blauw materiaal](images/blender-blue-material.png)
 
-![Blue rocket](images/blender-blue-rocket.png)
+![Blauwe raket](images/blender-blue-rocket.png)
