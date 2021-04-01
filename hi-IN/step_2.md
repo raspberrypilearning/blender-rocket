@@ -1,29 +1,29 @@
-## Base of the rocket
+## रॉकेट का आधार
 
-+ Open Blender and exit the splash screen.
++ Blender (ब्लेंडर) खोलें और स्प्लैश स्क्रीन से बाहर निकलें।
 
-+ Start by selecting the cube, then press <kbd>X</kbd> to delete it.
++ क्यूब का चयन करके आरंभ करें, फिर उसे हटाने के लिए <kbd>X</kbd> दबाएँ।
 
-+ Go to the **Add** dropdown menu. Add a cylinder from the Mesh section.
++ ** जोड़ें ** ड्रॉप डाउन मेनू पर जाएं । मेष अनुभाग से एक सिलेंडर जोड़ें।
 
-We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.
+हम इस सिलेंडर से रॉकेट बनाएँगे। सिलेंडर रॉकेट का निचला हिस्सा होगा, और हम रॉकेट बनाने के लिए इसके ऊपर के हिस्से पर कुछ जोड़ेंगे।
 
-+ Switch to **Edit Mode** using the menu on the top left.
++ ऊपरी दाहिना क्षेत्र में दिए गए मेनू का उपयोग करते हुए **Edit Mode** में जाएँ।
 
-![Edit mode](images/edit-mode.png)
+![संपादन मोड](images/edit-mode.png)
 
-Let's create the fins that stabilize the rocket as it flies.
+आइए उन पंखों को तैयार करते हैं जो रॉकेट को उड़ते समय स्थिरता प्रदान करते हैं।
 
-+ Click on **Edge select** in the lower menu.
++ नीचे के मेनू में **Edge select** पर क्लिक करें।
 
-![Edge tool](images/blender-edge-tool.png)
+![एज टूल](images/blender-edge-tool.png)
 
-+ Select 4 edges at the base of the cylinder that are parrallel and perpendicular to each other. Hold <kbd>Shift</kbd> while clicking to select more than one side.
++ सिलेंडर के आधार पर 4 किनारों का चयन करें जो एक दूसरे के समानांतर और लंबवत हैं। एक से अधिक पक्ष चुनने के लिए क्लिक करते समय <kbd> Shift दबाए रखें </kbd> ।
 
-![Select an edge](images/blender-rocket-4-edges.png)
+![किसी एज का चयन करें](images/blender-rocket-4-edges.png)
 
-+ Press <kbd>S</kbd> and move your mouse to drag out the edges and press <kbd>Enter</kbd> to finish.
++ <kbd> S दबाएं </kbd> और किनारों को खींचने के लिए अपने माउस को ले जाएं और <kbd> दर्ज करें दबाएं </kbd> खत्म करने के लिए।
 
-![Fins on the rocket](images/blender-rocket-fins.png)
+![रॉकेट पर पंख](images/blender-rocket-fins.png)
 
-Now you have the base of your rocket!
+अब आपके पास आपके रॉकेट का आधार है!
