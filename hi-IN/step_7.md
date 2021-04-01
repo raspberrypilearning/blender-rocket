@@ -1,17 +1,17 @@
-## Red nose
+## लाल नाक
 
-Let's colour the nose red.
+आइए नाक पर लाल रंग करें।
 
-+ Click to select the face of the nose.
++ नाक की आकृति का चयन करने के लिए क्लिक करें।
 
-![Select the nose](images/blender-rocket-nose-select.png)
+![नाक का चयन करें](images/blender-rocket-nose-select.png)
 
-+ Add a new material called `red` and select a red colour for the **Base Color** menu.
++ `लाल` नाम की एक नई सामग्री जोड़ें और **Base Color** मेनू के लिए किसी लाल रंग का चयन करें।
 
-![Add a red material](images/blender-red-material.png)
+![कोई लाल सामग्री जोड़ें](images/blender-red-material.png)
 
-+ Assign the red material to the nose.
++ लाल सामग्री को नाक के लिए निर्धारित करें।
 
-+ Render to see your blue rocket with white stripes and a red nose.
++ अपने नीले रॉकेट को सफेद पट्टियों और लाल नाक के साथ देखने के लिए प्रस्तुत करें।
 
-![Final rocket](images/final-rocket.png)
+![अंतिम रॉकेट](images/final-rocket.png)
