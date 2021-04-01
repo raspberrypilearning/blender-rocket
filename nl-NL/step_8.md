@@ -1,7 +1,7 @@
-## Challenge: more colour
+## Uitdaging: meer kleur
 
-+ Can you add more colours to your rocket? Perhaps you could make the fins red?
++ Kun je meer kleuren aan je raket toevoegen? Misschien kun je de vinnen rood maken?
 
-![Red fins](images/more-colour.png)
+![Rode vinnen](images/more-colour.png)
 
-+ Can you add another new material for a different colour?
++ Kun je nog een nieuw materiaal toevoegen voor een andere kleur?
