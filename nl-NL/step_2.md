@@ -1,29 +1,29 @@
-## Base of the rocket
+## Basis van de raket
 
-+ Open Blender and exit the splash screen.
++ Open Blender en sluit het startscherm.
 
-+ Start by selecting the cube, then press <kbd>X</kbd> to delete it.
++ Begin met het selecteren van de kubus en druk vervolgens op <kbd>X</kbd> om deze te verwijderen.
 
-+ Go to the **Add** dropdown menu. Add a cylinder from the Mesh section.
++ Ga naar het **Toevoegen** dropdown menu. Voeg een cilinder toe uit de Mesh-sectie.
 
-We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.
+We gaan de raket maken met deze cilinder. De cilinder wordt de onderkant van de raket en we voegen er dingen bovenop toe om de raket op te bouwen.
 
-+ Switch to **Edit Mode** using the menu on the top left.
++ Schakel over naar **Edit Mode** (bewerkingsmodus) met behulp van het menu linksboven.
 
-![Edit mode](images/edit-mode.png)
+![Bewerkingsmodus](images/edit-mode.png)
 
-Let's create the fins that stabilize the rocket as it flies.
+Laten we de vinnen maken die de raket tijdens het vliegen stabiliseren.
 
-+ Click on **Edge select** in the lower menu.
++ Klik op **Edge select** (rand selecteren) in het onderste menu.
 
-![Edge tool](images/blender-edge-tool.png)
+![Rand gereedschap](images/blender-edge-tool.png)
 
-+ Select 4 edges at the base of the cylinder that are parrallel and perpendicular to each other. Hold <kbd>Shift</kbd> while clicking to select more than one side.
++ Selecteer 4 randen van de onderkant van de cilinder die evenwijdig en loodrecht op elkaar staan. Houd <kbd>Shift</kbd> ingedrukt terwijl je klikt om meer dan één kant te selecteren.
 
-![Select an edge](images/blender-rocket-4-edges.png)
+![Selecteer een rand](images/blender-rocket-4-edges.png)
 
-+ Press <kbd>S</kbd> and move your mouse to drag out the edges and press <kbd>Enter</kbd> to finish.
++ Druk op <kbd>S</kbd> en beweeg je muis om de randen naar buiten te slepen en druk op <kbd>Enter</kbd> om te voltooien.
 
-![Fins on the rocket](images/blender-rocket-fins.png)
+![Vinnen op de raket](images/blender-rocket-fins.png)
 
-Now you have the base of your rocket!
+Nu heb je de basis van je raket!
