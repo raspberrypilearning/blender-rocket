@@ -1,7 +1,7 @@
 ---
-title: Rocket
+title: Raket
 hero_image: images/banner.png
-description: Create a model of a rocket using Blender
+description: Maak een model van een raket met Blender
 theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -17,18 +17,18 @@ version: 4
 last_tested: 2020-01-29
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Base of the rocket
+    title: Basis van de raket
   - 
-    title: Body of the rocket
+    title: Lichaam van de raket
   - 
-    title: Nose cone
+    title: Neuskegel
   - 
-    title: Colour the rocket
+    title: Kleur de raket
   - 
-    title: Add stripes
+    title: Voeg strepen toe
   - 
-    title: Red nose
+    title: Rode neus
   - 
-    title: "Challenge: more colour"
+    title: "Uitdaging: meer kleur"
