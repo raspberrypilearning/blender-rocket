@@ -1,17 +1,17 @@
-## Red nose
+## Rode neus
 
-Let's colour the nose red.
+Laten we de neus rood kleuren.
 
-+ Click to select the face of the nose.
++ Klik om het vlak van de neus te selecteren.
 
-![Select the nose](images/blender-rocket-nose-select.png)
+![Selecteer de neus](images/blender-rocket-nose-select.png)
 
-+ Add a new material called `red` and select a red colour for the **Base Color** menu.
++ Voeg een nieuw materiaal toe met de naam `red` (rood) en selecteer een rode kleur uit het menu **Base Color**.
 
-![Add a red material](images/blender-red-material.png)
+![Voeg een rood materiaal toe](images/blender-red-material.png)
 
-+ Assign the red material to the nose.
++ Wijs het rode materiaal toe aan de neus.
 
-+ Render to see your blue rocket with white stripes and a red nose.
++ Render om je blauwe raket te zien met witte strepen en een rode neus.
 
-![Final rocket](images/final-rocket.png)
+![Voltooide raket](images/final-rocket.png)
