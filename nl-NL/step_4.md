@@ -1,29 +1,29 @@
-## Nose cone
+## Neuskegel
 
-The nose cone should come to a point. To do this you can use the resize tool.
+De neuskegel zou in een punt uit moeten lopen. Om dit te doen, kun je het gereedschap voor het wijzigen van de grootte gebruiken.
 
-+ Select the top face of the rocket again.
++ Selecteer opnieuw de bovenkant van de raket.
 
-![Cube ends tool](images/blender-rocket-top-face.png)
+![Kubusuiteindengereedschap](images/blender-rocket-top-face.png)
 
-+ Resize the face by pressing <kbd>S</kbd> and moving your mouse, turning it into more of a nose cone shape. Click when you have the shape that you want.
++ Pas de grootte van het vlak aan door op <kbd>S</kbd> te drukken en je muis te bewegen, zodat het meer een neuskegelvorm krijgt. Klik als je de vorm hebt die je wilt.
 
-![Resize the face](images/blender-rocket-cone-nose.png)
+![Pas het formaat van het vlak aan](images/blender-rocket-cone-nose.png)
 
-+ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
++ Render de afbeelding door op <kbd>F12</kbd> (<kbd>FN + F12</kbd> als je een Mac gebruikt) te drukken en kijk hoe de raket eruit ziet.
 
-![Render the rocket](images/blender-rocket-render-1.png)
+![Render de raket](images/blender-rocket-render-1.png)
 
-It might look a bit big, but you can resize the whole rocket.
+Het ziet er misschien een beetje groot uit, maar je kunt de grootte van de hele raket wijzigen.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Druk op <kbd>ESC</kbd> om de renderweergave te verlaten.
 
-+ Switch back to **Object Mode** using the menu at the top left and select the rocket by clicking on it.
++ Schakel terug naar **Object Mode** met behulp van het menu linksboven en selecteer de raket door erop te klikken.
 
-+ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
++ Druk op de <kbd>S</kbd> toets om de grootte te wijzigen en vervolgens de raket te verkleinen. Klik wanneer je tevreden bent met de grootte.
 
-![Resize the rocket](images/blender-rocket-resize.png)
+![Pas de grootte van de raket aan](images/blender-rocket-resize.png)
 
-+ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
++ Render opnieuw door op <kbd>F12</kbd> (of <kbd>FN + F12</kbd>) te drukken om er zeker van te zijn dat de raket de juiste grootte heeft.
 
-![Small rendered rocket](images/blender-rocket-render-2.png)
+![Klein gerenderde raket](images/blender-rocket-render-2.png)
