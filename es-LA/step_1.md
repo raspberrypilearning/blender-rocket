@@ -1,10 +1,10 @@
-## Introduction
+## Introducción
 
-Create a model of a rocket using Blender.
+Construye el modelo de un cohete utilizando Blender.
 
-### What you will make
+### Lo que harás
 
-Here is how your finished piece will look:
+Así es como lucirá tu trabajo al finalizar:
 
 <div class="responsive-embed responsive-embed--video">
   <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/5660fd9d487e4175bd3b7d97c6277f39/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -12,36 +12,36 @@ Here is how your finished piece will look:
 
 ## \--- collapse \---
 
-## title: "What you will learn"
+## title: Lo que vas a aprender
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+Este proyecto incluye elementos de los siguientes aspectos del [currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
++ [Diseño de elementos básicos en 2D y 3D](https://curriculum.raspberrypi.org/design/creator/){: target = "_ blank"}
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: "What you will need"
+## title: "Lo que vas a necesitar"
 
-### Hardware
+### Equipo
 
-+ A desktop or laptop computer capable of running the Blender software
++ Una computadora o laptop capaz de ejecutar el software Blender
 
-### Software
+### Programa
 
 + [Blender](https://www.blender.org/download/){:target="_blank"} (v2.8 or newer)
 
 \--- /collapse \---
 
-### Additional information for educators
+### Información adicional para los educadores
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/blender-rocket/print){:target="_blank"}.
+Si necesitas imprimir el proyecto, utiliza la [versión para imprimir](https://projects.raspberrypi.org/en/projects/blender-rocket/print){:target="_blank"}.
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+Utiliza el enlace en el pie de página para acceder al repositorio de GitHub para este proyecto, que contiene todos los recursos (incluyendo un ejemplo de proyecto terminado) en la carpeta 'en/resources'.
 
-If you prefer, you can watch the whole resource as video tutorials: <iframe width="560" height="315" src="https://www.youtube.com/embed/DhdjWn_0tYg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/YojHaSjONTs" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Si lo prefieres, puedes ver todo el material como un video tutorial: <iframe width="560" height="315" src="https://www.youtube.com/embed/DhdjWn_0tYg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> <iframe width="560" height="315" src="https://www.youtube.com/embed/YojHaSjONTs" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### License
+### Licencia
 
-***Rocket*** by 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+***Cohete*** por 3Dami & b3d101, Peter Kemp, Tom Haines, Monique Dewanchand tiene licencia bajo una [Creative Commons Attribution 4. Licencia internacional](http://creativecommons.org/licenses/by-sa/4.0/).
