@@ -1,23 +1,23 @@
-## Colour the rocket
+## Colorea el cohete
 
-First we will give the rocket a basic blue colour.
+Primero le daremos al cohete un color azul básico.
 
-+ Select the rocket.
++ Selecciona el cohete.
 
-+ Go to the **Material Properties** tab on the right menu panel.
++ Ve a la pestaña **Propiedades de materiales** en el panel de la derecha del menú.
 
-![Material tab](images/blender-material-tab.png)
+![Pestaña Material](images/blender-material-tab.png)
 
-+ Add a new material by clicking **New**.
++ Agrega un nuevo material haciendo clic en el botón **Nuevo**.
 
-![Add a new material](images/blender-new-material.png)
+![Añadir un nuevo material](images/blender-new-material.png)
 
-+ Call the material `blue`.
++ Nombra al material `azul`.
 
-![Name the material](images/blender-name-material.png)
+![Nombra el material](images/blender-name-material.png)
 
-+ Select a blue color from the **Base Color** menu to colour your rocket blue.
++ Selecciona un color azul en el menú **Color base** para colorear tu cohete de azul.
 
-![Blue material](images/blender-blue-material.png)
+![Material azul](images/blender-blue-material.png)
 
-![Blue rocket](images/blender-blue-rocket.png)
+![Cohete azul](images/blender-blue-rocket.png)
