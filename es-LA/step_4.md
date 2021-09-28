@@ -1,29 +1,29 @@
-## Nose cone
+## Cono de la nariz
 
-The nose cone should come to a point. To do this you can use the resize tool.
+El cono de la nariz debe terminar en un punto. Para hacer esto puedes utilizar la herramienta redimensionar.
 
-+ Select the top face of the rocket again.
++ Selecciona la cara superior del cohete nuevamente.
 
-![Cube ends tool](images/blender-rocket-top-face.png)
+![Herramienta de extremos de cubo](images/blender-rocket-top-face.png)
 
-+ Resize the face by pressing <kbd>S</kbd> and moving your mouse, turning it into more of a nose cone shape. Click when you have the shape that you want.
++ Cambia el tamaño de la cara pulsando <kbd>S</kbd> y moviendo el ratón, convirtiéndola en una forma más parecida al cono de nariz. Haz clic cuando tengas la forma que te guste.
 
-![Resize the face](images/blender-rocket-cone-nose.png)
+![Ajustar el tamaño de la cara](images/blender-rocket-cone-nose.png)
 
-+ Render the image by pressing <kbd>F12</kbd> (<kbd>FN + F12</kbd> if you're using a Mac) and see what the rocket looks like.
++ Renderiza la imagen pulsando <kbd>F12</kbd> (<kbd>FN + F12</kbd> si estás usando un Mac) y ve cómo se ve el cohete.
 
-![Render the rocket](images/blender-rocket-render-1.png)
+![Renderiza el cohete](images/blender-rocket-render-1.png)
 
-It might look a bit big, but you can resize the whole rocket.
+Puede parecer un poco grande, pero puedes cambiar el tamaño de todo el cohete.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
++ Presiona <kbd>ESC</kbd> para salir de la vista de renderizado.
 
-+ Switch back to **Object Mode** using the menu at the top left and select the rocket by clicking on it.
++ Cambia de vuelta a **Modo objeto** usando el menú en la parte superior izquierda y selecciona el cohete haciendo clic en él.
 
-+ Press the <kbd>S</kbd> key to resize, then shrink the rocket. Click when you are happy with the size.
++ Pulsa la tecla <kbd>S</kbd> para cambiar el tamaño, y luego reduce el cohete. Haz clic cuando estés satisfecho con el tamaño.
 
-![Resize the rocket](images/blender-rocket-resize.png)
+![Cambiar el tamaño del cohete](images/blender-rocket-resize.png)
 
-+ Render again by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd>) to confirm the rocket has the right size.
++ Renderiza nuevamente presionando <kbd> F12 </kbd> (o <kbd>FN + F12</kbd>) para confirmar que el cohete tiene el tamaño correcto.
 
-![Small rendered rocket](images/blender-rocket-render-2.png)
+![Cohete pequeño renderizado](images/blender-rocket-render-2.png)
