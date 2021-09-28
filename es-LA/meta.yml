@@ -1,7 +1,7 @@
 ---
-title: Rocket
+title: Cohete
 hero_image: images/banner.png
-description: Create a model of a rocket using Blender
+description: Crea un modelo de cohete con Blender
 theme: blue #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2
 listed: true
@@ -17,18 +17,18 @@ version: 4
 last_tested: 2020-01-29
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Base of the rocket
+    title: Base del cohete
   - 
-    title: Body of the rocket
+    title: Cuerpo del cohete
   - 
-    title: Nose cone
+    title: Cono de la nariz
   - 
-    title: Colour the rocket
+    title: Colorea el cohete
   - 
-    title: Add stripes
+    title: Agrega rayas
   - 
-    title: Red nose
+    title: Nariz roja
   - 
-    title: "Challenge: more colour"
+    title: "Desafío: Más colores"
