@@ -1,37 +1,37 @@
-## Add stripes
+## Añadir rayas
 
-+ Make sure the rocket is selected, then select **Edit Mode** from the menu in the top left corner. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
++ Asegúrate de que el cohete está seleccionado, luego selecciona **Modo de edición** del menú en la esquina superior izquierda. Si lo prefieres, puedes usar la tecla <kbd>Tabulador</kbd> como acceso directo.
 
-![Edit mode](images/edit-mode.png)
+![Modo de edición](images/edit-mode.png)
 
-+ Click on the **Face select** tool from the menu next to the edit mode menu.
++ Haz clic en la herramienta **Seleccionar cara** del menú al lado del menú modo de edición.
 
-![Face tool](images/blender-face-tool.png)
+![Herramienta selección de caras](images/blender-face-tool.png)
 
-Now we will add a new material for the stripes.
+Ahora vamos a añadir un nuevo material para las rayas.
 
-+ Go to the **Material Properties** tab on the right menu panel, and add another new material by clicking the **+** icon.
++ Ve a la pestaña **Propiedades de Material** en el panel del menú derecho y añada otro nuevo material haciendo clic en el ícono **+**.
 
-![Add another material](images/blender-add-material-plus-button.png)
+![Añadir otro material](images/blender-add-material-plus-button.png)
 
-+ Click on **New** and call the material `white`.
++ Haz clic en **Nuevo** y nombra al material `blanco`.
 
-![Name the material](images/blender-name2-material.png)
+![Nombra el material](images/blender-name2-material.png)
 
-+ Select a white colour for the **Base Color** menu.
++ Selecciona un color blanco en el menú **Color base**.
 
-![Select a white colour](images/blender-white-material.png)
+![Selecciona un color blanco](images/blender-white-material.png)
 
-Now you can add this colour to the faces of the rocket.
+Ahora puedes añadir este color a las caras del cohete.
 
-+ Click to select a face on the rocket that you want to colour white.
++ Haz clic para seleccionar una cara en el cohete que quieras colorear de blanco.
 
-+ Click on the white material, then click on the **Assign** button to colour the face white.
++ Haz clic en el material blanco, luego haz clic en el botón **Asignar** para colorear la cara blanca.
 
-![Assign the material](images/blender-material-assign.png)
+![Asignar el material](images/blender-material-assign.png)
 
-Now select the next face to be coloured and give it the white colour by repeating the previous steps. You can select multiple faces at once by selecting a face and then holding <kbd>Shift</kbd> while selecting the other faces.
+Ahora selecciona la cara siguiente a colorear y dale el color blanco repitiendo los pasos anteriores. Puedes seleccionar múltiples caras a la vez seleccionando una cara y luego manteniendo <kbd>Shift</kbd> apretado mientras seleccionas las otras caras.
 
-![Colour the stripes](images/blender-rocket-white-faces.png)
+![Colorea las rayas](images/blender-rocket-white-faces.png)
 
-+ Render your rocket to see what it looks like.
++ Renderiza tu cohete para ver cómo se ve.
