@@ -1,29 +1,29 @@
-## Body of the rocket
+## Cuerpo del cohete
 
-Now let's create the body of the rocket.
+Ahora vamos a crear el cuerpo del cohete.
 
-+ Switch to the **Face select** tool.
++ Cambia a la herramienta **de selección de cara.**.
 
-![Face select tool](images/blender-face-tool.png)
+![Herramienta selección de cara](images/blender-face-tool.png)
 
-+ Click to select the top face of the cylinder.
++ Haz clic para seleccionar la cara superior del cilindro.
 
-If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
+Si lo levantas, se ve un poco extraño. Todo se moverá hacia arriba, y eso no es lo que quieres.
 
-![Pull rocket up](images/blender-rocket-pull.png)
+![Tira del cohete hacia arriba](images/blender-rocket-pull.png)
 
-You can press <kbd>CTRL + Z</kbd> to undo any changes you made.
+Puedes presionar <kbd>CTRL + Z</kbd> para deshacer cualquier cambio que hayas realizado.
 
-Instead, we will extrude this face.
+En cambio, extruiremos esta cara.
 
-+ Select **Extrude region** from the list of tools on the left, or if you prefer, use the shortcut key <kbd>E</kbd>.
++ Selecciona **Extruir región** de la lista de herramientas a la izquierda, o si lo prefieres, usa la tecla de acceso directo <kbd>E</kbd>.
 
-![Extrude region](images/extrude-region.png)
+![Extruir región](images/extrude-region.png)
 
-+ Pull the section up to create a taller rocket using the `+`, then click when you are happy.
++ Arrastra la sección para crear un cohete más alto usando el `+`, luego haz clic cuando estés satisfecho.
 
-![Extrude region](images/blender-rocket-body-extrude.png)
+![Extruir región](images/blender-rocket-body-extrude.png)
 
-+ Extrude the same face once more to form the basis of the nose cone. Either select **Extrude region** again from the menu, or if you prefer, use the shortcut key <kbd>E</kbd>.
++ Extruye la misma cara una vez más para formar la base del cono de la nariz. Selecciona nuevamente **Extruir region** en el menú, o si lo prefieres, usa el acceso directo <kbd>E</kbd>.
 
-![Nose cone](images/blender-rocket-nose-extrude.png)
+![Cono de la nariz](images/blender-rocket-nose-extrude.png)
