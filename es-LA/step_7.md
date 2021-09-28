@@ -1,17 +1,17 @@
-## Red nose
+## Nariz roja
 
-Let's colour the nose red.
+Pintemos la nariz de rojo.
 
-+ Click to select the face of the nose.
++ Haga clic para seleccionar la cara de la nariz.
 
-![Select the nose](images/blender-rocket-nose-select.png)
+![Selecciona la nariz](images/blender-rocket-nose-select.png)
 
-+ Add a new material called `red` and select a red colour for the **Base Color** menu.
++ Añade un nuevo material llamado `Rojo` y selecciona un color rojo del menú **Color base**.
 
-![Add a red material](images/blender-red-material.png)
+![Añadir un material rojo](images/blender-red-material.png)
 
-+ Assign the red material to the nose.
++ Asigna el material rojo a la nariz.
 
-+ Render to see your blue rocket with white stripes and a red nose.
++ Renderiza para ver tu cohete azul con rayas blancas y una nariz roja.
 
-![Final rocket](images/final-rocket.png)
+![Cohete final](images/final-rocket.png)
