@@ -1,29 +1,29 @@
-## Base of the rocket
+## Base del cohete
 
-+ Open Blender and exit the splash screen.
++ Abre Blender y cierra la pantalla de bienvenida.
 
-+ Start by selecting the cube, then press <kbd>X</kbd> to delete it.
++ Comienza seleccionando el cubo y presiona <kbd>X</kbd> para eliminarlo.
 
-+ Go to the **Add** dropdown menu. Add a cylinder from the Mesh section.
++ Ve al menú desplegable **Añadir**. Agrega un cilindro de la sección Malla.
 
-We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.
+Crearemos el cohete a partir de este cilindro. El cilindro será la base del cohete, y agregaremos a la parte superior de él para construir el cohete.
 
-+ Switch to **Edit Mode** using the menu on the top left.
++ Cambia a **Modo de edición** usando el menú de la parte superior izquierda.
 
-![Edit mode](images/edit-mode.png)
+![Modo de edición](images/edit-mode.png)
 
-Let's create the fins that stabilize the rocket as it flies.
+Vamos a crear las aletas que estabilizan el cohete mientras vuela.
 
-+ Click on **Edge select** in the lower menu.
++ Haz clic en **Selección de bordes** en el menú inferior.
 
-![Edge tool](images/blender-edge-tool.png)
+![Herramienta de bordes](images/blender-edge-tool.png)
 
-+ Select 4 edges at the base of the cylinder that are parrallel and perpendicular to each other. Hold <kbd>Shift</kbd> while clicking to select more than one side.
++ Selecciona 4 aristas en la base del cilindro que sean paralelas y perpendiculares entre sí. Mantén pulsado <kbd>Shift</kbd> mientras haces clic para seleccionar más de un lado.
 
-![Select an edge](images/blender-rocket-4-edges.png)
+![Seleccionar un borde](images/blender-rocket-4-edges.png)
 
-+ Press <kbd>S</kbd> and move your mouse to drag out the edges and press <kbd>Enter</kbd> to finish.
++ Pulsa <kbd>S</kbd> y mueve el ratón para arrastrar los bordes y pulsa <kbd>Enter</kbd> para terminar.
 
-![Fins on the rocket](images/blender-rocket-fins.png)
+![Aletas en el cohete](images/blender-rocket-fins.png)
 
-Now you have the base of your rocket!
+¡Ahora tienes la base de tu cohete!
