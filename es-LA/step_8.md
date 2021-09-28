@@ -5,6 +5,7 @@
 ![Aletas rojas](images/more-colour.png)
 
 + ¿Puedes añadir otro nuevo material para un color diferente?
+
 ***
 Este proyecto fue traducido por voluntarios:
 
