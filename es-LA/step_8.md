@@ -1,7 +1,7 @@
-## Challenge: more colour
+## Desafío: Más colores
 
-+ Can you add more colours to your rocket? Perhaps you could make the fins red?
++ ¿Puedes agregar más colores a tu cohete? ¿Quizás podrías hacer que las aletas fueran rojas?
 
-![Red fins](images/more-colour.png)
+![Aletas rojas](images/more-colour.png)
 
-+ Can you add another new material for a different colour?
++ ¿Puedes añadir otro nuevo material para un color diferente?
