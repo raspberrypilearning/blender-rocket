@@ -17,12 +17,14 @@ version: 4
 last_tested: 2020-01-29
 steps:
 - title: Introduction
-  completion: engaged
 - title: Base of the rocket
 - title: Body of the rocket
+  completion:
+  - engaged
 - title: Nose cone
 - title: Colour the rocket
 - title: Add stripes
 - title: Red nose
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: more colour'

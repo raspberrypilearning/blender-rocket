@@ -17,12 +17,14 @@ version: 4
 last_tested: 2020-01-29
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Basis van de raket
 - title: Lichaam van de raket
+  completion:
+  - engaged
 - title: Neuskegel
 - title: Kleur de raket
 - title: Voeg strepen toe
 - title: Rode neus
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: meer kleur'

@@ -17,12 +17,14 @@ version: 4
 last_tested: 2020-01-29
 steps:
 - title: Introducción
-  completion: engaged
 - title: Base del cohete
 - title: Cuerpo del cohete
+  completion:
+  - engaged
 - title: Cono de la nariz
 - title: Colorea el cohete
 - title: Agrega rayas
 - title: Nariz roja
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: Más colores'

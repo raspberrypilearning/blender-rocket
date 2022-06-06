@@ -17,13 +17,15 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Τι θα χρειαστείς
 - title: Η βάση του πυραύλου
+  completion:
+  - engaged
 - title: Το σώμα του πυραύλου
 - title: Κωνική κορυφή
 - title: Χρωμάτισε τον πύραυλο
 - title: Πρόσθεσε λωρίδες
-  completion: internal
+  completion:
+  - internal
 - title: Κόκκινη κορυφή
 - title: 'Πρόκληση: Περισσότερο χρώμα'
