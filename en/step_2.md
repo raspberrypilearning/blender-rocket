@@ -1,29 +1,71 @@
 ## Base of the rocket
 
-+ Open Blender and exit the splash screen.
+--- task ---
 
-+ Start by selecting the cube, then press <kbd>X</kbd> to delete it.
+Open Blender and exit the splash screen.
 
-+ Go to the **Add** dropdown menu. Add a cylinder from the Mesh section.
+--- /task ---
 
-We'll be creating the rocket from this cylinder. The cylinder will be the bottom of the rocket, and we'll add to the top of it to build up the rocket.  
+--- task ---
 
-+ Switch to **Edit Mode** using the menu on the top left.
+Select the cube and press the <kbd>X</kbd> or <kbd>delete</kbd> key to delete it.
+
+--- /task ---
+
+--- task ---
+
+Go to the **Add** dropdown menu. Add a cylinder from the Mesh section.
+
+![Add cylinder](images/add-cylinder.png)
+
+--- /task ---
+
+The cylinder will be the bottom of the rocket. 
+
+You will add to the top of it to build up the rocket.  
+
+--- task ---
+
+Switch to **Edit Mode** using the menu on the top left.
+
+--- /task ---
 
 ![Edit mode](images/edit-mode.png)
 
-Let's create the fins that stabilize the rocket as it flies.
+Create the fins that stabilize the rocket as it flies.
 
-+ Click on **Edge select** in the lower menu.
+--- task ---
+
+Click on **Edge select** in the lower menu.
 
 ![Edge tool](images/blender-edge-tool.png)
 
-+ Select 4 edges at the base of the cylinder that are parrallel and perpendicular to each other. Hold <kbd>Shift</kbd> while clicking to select more than one side.
+--- /task ---
 
-![Select an edge](images/blender-rocket-4-edges.png)
+--- task ---
 
-+ Press <kbd>S</kbd> and move your mouse to drag out the edges and press <kbd>Enter</kbd> to finish.
+Rotate your view so you are viewing the base of the rocket.
+
+--- /task ---
+
+--- task ---
+
+Select four edges at the base of the cylinder that are parallel and perpendicular to each other. 
+
+Hold <kbd>Shift</kbd> while clicking to select more than one side.
+
+You can see the selected edges highlighted by red boxes in this image:
+
+![Four edges selected at the base of the cylinder](images/blender-rocket-4-edges.png)
+
+--- /task ---
+
+--- task ---
+
+Press <kbd>S</kbd> and move your mouse to drag out the edges and press <kbd>Enter</kbd> to finish.
 
 ![Fins on the rocket](images/blender-rocket-fins.png)
+
+--- /task ---
 
 Now you have the base of your rocket!
