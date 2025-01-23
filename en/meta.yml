@@ -18,9 +18,9 @@ last_tested: 2020-01-29
 steps:
 - title: What you will make
 - title: Base of the rocket
-- title: Body of the rocket
   completion:
   - engaged
+- title: Body of the rocket
 - title: Nose cone
 - title: Colour the rocket
 - title: Add stripes

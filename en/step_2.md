@@ -20,6 +20,9 @@ Go to the **Add** dropdown menu. Add a cylinder from the Mesh section.
 
 --- /task ---
 
+**Not**: Your cylinder will not sit on the floor (the 'Y' plane). 
+Don't worry about that!
+
 The cylinder will be the bottom of the rocket. 
 
 You will add to the top of it to build up the rocket.  

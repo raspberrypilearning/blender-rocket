@@ -1,23 +1,48 @@
 ## Colour the rocket
 
-First we will give the rocket a basic blue colour.
+Give the rocket a basic blue colour.
 
-+ Select the rocket.
+--- task ---
 
-+ Go to the **Material Properties** tab on the right menu panel.
+Go to the **Material Properties** tab on the right menu panel.
+
+You might need to scroll the menu down to see it.
 
 ![Material tab](images/blender-material-tab.png)
 
-+ Add a new material by clicking **New**.
+--- /task ---
+
+--- task ---
+
+Add a new material by clicking **New**.
 
 ![Add a new material](images/blender-new-material.png)
 
-+ Call the material `blue`.
+--- /task ---
+
+--- task ---
+
+Call the material `blue`.
 
 ![Name the material](images/blender-name-material.png)
 
-+ Select a blue color from the **Base Color** menu to colour your rocket blue.
+--- /task ---
+
+--- task ---
+
+Select a blue color from the **Base Color** menu to colour your rocket blue.
 
 ![Blue material](images/blender-blue-material.png)
 
+--- /task ---
+
+--- task ---
+
+Select the 'Material Preview' or 'Rendered View' option from the Viewport Shading options to see your rocket with the blue material.
+
+![Material view](images/material-view.png)
+
 ![Blue rocket](images/blender-blue-rocket.png)
+
+--- /task ---
+

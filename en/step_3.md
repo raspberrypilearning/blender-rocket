@@ -4,7 +4,7 @@
 
 Switch to the **Face select** tool.
 
-![Face select tool](images/blender-face-tool.png)
+![Face select tool](images/face-select.png)
 
 --- /task ---
 
@@ -12,23 +12,15 @@ Switch to the **Face select** tool.
 
 Click to select the top face of the cylinder.
 
-If you pull it up, it looks a bit strange. Everything will move up, and that's not what you want.
-
-![Pull rocket up](images/blender-rocket-pull.png)
+![The top face selected](images/face-selected.png)
 
 --- /task ---
 
---- task ---
-
-Press <kbd>CTRL + Z</kbd> to undo any changes you made.
-
---- /task ---
-
-Instead, we will 'extrude' this face.
+You need to 'extrude' this face.
 
 --- task ---
 
-Select **Extrude region** from the list of tools on the left, or use the shortcut key <kbd>E</kbd>.
+Select **Extrude region** from the list of tools on the left.
 
 ![Extrude region tool](images/extrude-region.png)
 
@@ -36,7 +28,7 @@ Select **Extrude region** from the list of tools on the left, or use the shortcu
 
 --- task ---
 
-Pull the section up to create a taller rocket using the `+`, then click when you are happy.
+Pull the section up to create a taller rocket using the yellow `+`.
 
 ![A taller rocket](images/blender-rocket-body-extrude.png)
 
