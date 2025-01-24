@@ -1,6 +1,8 @@
 ## What you will make
 
-Here is how your finished piece will look:
+Here is how your finished piece will look.
+
+Click it and drag it around to see it in 3D!
 
 --- print-only ---
 ![A 3D render of a blue and white stripy rocket with a red nose cone](images/final-rocket.png)
