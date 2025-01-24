@@ -8,7 +8,7 @@ Here is how your finished piece will look:
 
 --- no-print ---
 <div class="responsive-embed responsive-embed--video">
-  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/5660fd9d487e4175bd3b7d97c6277f39/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/d701ca4a53e2426d8ebffe9c8baa9f15/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 --- /no-print ---
 
