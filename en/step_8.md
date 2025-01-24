@@ -1,7 +1,3 @@
-## Challenge: more colour
+## What can you do now?
 
-+ Can you add more colours to your rocket? Perhaps you could make the fins red?
-
-![Red fins](images/more-colour.png)
-
-+ Can you add another new material for a different colour?
+If you want to have more fun exploring Blender, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=blender).

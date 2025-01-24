@@ -45,4 +45,3 @@ Select the 'Material Preview' or 'Rendered View' option from the Viewport Shadin
 ![Blue rocket](images/blender-blue-rocket.png)
 
 --- /task ---
-

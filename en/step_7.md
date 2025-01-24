@@ -1,17 +1,33 @@
-## Red nose
+## Challenge
 
-Let's colour the nose red.
+Can you add more colours to your rocket? 
 
-+ Click to select the face of the nose.
+Perhaps you could make the nose red?
 
-![Select the nose](images/blender-rocket-nose-select.png)
+--- task ---
 
-+ Add a new material called `red` and select a red colour for the **Base Color** menu.
+Click to select the face of the nose.
 
-![Add a red material](images/blender-red-material.png)
+--- /task ---
 
-+ Assign the red material to the nose.
+--- task ---
 
-+ Render to see your blue rocket with white stripes and a red nose.
+Add a new material called `red` and select a red colour for the **Base Color** menu.
+
+--- /task ---
+
+--- task ---
+
+Assign the red material to the nose.
+
+--- /task ---
+
+--- task ---
+
+Render to see your blue rocket with white stripes and a red nose.
 
 ![Final rocket](images/final-rocket.png)
+
+--- /task ---
+
+Can you add another new material for a different colour and add it to the fins?

@@ -24,10 +24,10 @@ steps:
 - title: Nose cone
 - title: Colour the rocket
 - title: Add stripes
-- title: Red nose
   completion:
   - internal
-- title: 'Challenge: more colour'
+- title: Challenge
+  challenge: true
 - title: What can you do now?
   completion:
   - external
