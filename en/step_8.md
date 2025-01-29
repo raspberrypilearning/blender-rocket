@@ -4,14 +4,14 @@ If you are following the [Blender for beginners](https://projects.raspberrypi.or
 
 --- print-only --- 
 
-![A model of a simple brown house](images/blender-house-colour-render.png)
+![A snow scene with a snowman, a car and a rocket, which is flying over a house](images/blender-flying-rocket.png)
 
 --- /print-only ---
 
 --- no-print ---
 
 <div class="responsive-embed responsive-embed--video">
-  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/79f08731ff7848f48e09fbe473ee563b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/f74b099ea5a64f6192d2068900f9c9c0/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 --- /no-print ---
