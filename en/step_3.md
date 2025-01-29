@@ -41,3 +41,5 @@ Extrude the same face once more to form the basis of the nose cone.
 ![Nose cone](images/blender-rocket-nose-extrude.png)
 
 --- /task ---
+
+--- save ---

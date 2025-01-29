@@ -22,7 +22,7 @@ Add a new material by clicking **New**.
 
 --- task ---
 
-Call the material `blue`.
+Name the material `blue`.
 
 ![Name the material](images/blender-name-material.png)
 
@@ -45,3 +45,5 @@ Select the 'Material Preview' or 'Rendered View' option from the Viewport Shadin
 ![Blue rocket](images/blender-blue-rocket.png)
 
 --- /task ---
+
+--- save ---

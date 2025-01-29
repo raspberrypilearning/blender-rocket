@@ -72,3 +72,5 @@ Press <kbd>S</kbd> and move your mouse to drag out the edges and press <kbd>Ente
 --- /task ---
 
 Now you have the base of your rocket!
+
+--- save ---
