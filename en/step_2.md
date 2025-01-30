@@ -14,7 +14,11 @@ Select the cube and press the <kbd>X</kbd> or <kbd>delete</kbd> key to delete it
 
 --- task ---
 
-Go to the **Add** dropdown menu. Add a cylinder from the Mesh section.
+Go to the **Add** dropdown menu. 
+
+Open the **Mesh** section.
+
+Add a **Cylinder**.
 
 ![Add cylinder](images/add-cylinder.png)
 
