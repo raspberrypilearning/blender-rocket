@@ -2,7 +2,9 @@
 
 --- task ---
 
-Make sure the rocket is selected, then select **Edit Mode** from the menu in the top left corner. If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
+Make sure the rocket is selected, then select **Edit Mode** from the menu in the top left corner. 
+
+If you prefer, you can use the <kbd>Tab</kbd> key as a shortcut.
 
 ![Edit mode](images/edit-mode.png)
 
@@ -16,7 +18,7 @@ Make sure the **Face select** tool is selected from the menu next to the edit mo
 
 --- /task ---
 
-### Add a new material for the stripes.
+### Add a new material for the stripes
 
 --- task ---
 

@@ -38,7 +38,7 @@ Select a blue color from the **Base Color** menu to colour your rocket blue.
 
 --- task ---
 
-Select the 'Material Preview' or 'Rendered View' option from the Viewport Shading options to see your rocket with the blue material.
+Select the 'Material Preview' option from the Viewport Shading options to see your rocket with the blue material.
 
 ![Material view](images/material-view.png)
 

@@ -4,6 +4,12 @@ The nose cone should come to a point. To do this you can use the resize tool.
 
 --- task ---
 
+Make sure you have the top face selected.
+
+--- /task ---
+
+--- task ---
+
 Resize the face by pressing <kbd>S</kbd> and moving your mouse, turning it into more of a nose cone shape. Click when you have the shape that you want.
 
 ![A nose cone on the rocket](images/blender-rocket-cone-nose.png)

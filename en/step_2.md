@@ -2,7 +2,7 @@
 
 --- task ---
 
-Open Blender and exit the splash screen.
+Open Blender and exit the welcome screen by pressing <kbd>ESC</kbd>.
 
 --- /task ---
 
@@ -31,9 +31,9 @@ You will add to the top of it to build up the rocket.
 
 Switch to **Edit Mode** using the menu on the top left.
 
---- /task ---
-
 ![Edit mode](images/edit-mode.png)
+
+--- /task ---
 
 Create the fins that stabilize the rocket as it flies.
 
@@ -53,9 +53,12 @@ Rotate your view so you are viewing the base of the rocket.
 
 --- task ---
 
-Select four edges at the base of the cylinder that are parallel and perpendicular to each other. 
+Select four edges at the base of the cylinder.
 
-Hold <kbd>Shift</kbd> while clicking to select more than one side.
+Hold <kbd>Shift</kbd> while clicking to select more than one edge.
+
++ One at the top and one at the bottom opposite it.
++ One on the right and one on the left opposite it. 
 
 You can see the selected edges highlighted by red boxes in this image:
 

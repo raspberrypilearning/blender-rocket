@@ -10,13 +10,13 @@ Switch to the **Face select** tool.
 
 --- task ---
 
-Click to select the top face of the cylinder.
+Click to select the top face (surface) of the cylinder.
 
 ![The top face selected](images/face-selected.png)
 
 --- /task ---
 
-You need to 'extrude' this face.
+You need to 'extrude' (stretch out) the shape from this face.
 
 --- task ---
 
